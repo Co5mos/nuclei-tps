@@ -11,51 +11,51 @@ nuclei templates
 ## http-vulnerabilities
 
 
-### anheng
+### 安恒
 
 * [anheng-gateway-rce-cnvd-2023-03898](http/vulnerabilities/anheng/anheng-gateway-rce-cnvd-2023-03898.yaml)
 * [anheng-mingyu-xmlrpc-sock-ssrf](http/vulnerabilities/anheng/anheng-mingyu-xmlrpc-sock-ssrf.yaml)
 
 
-### changjet
+### 畅捷通
 
 * [changjet-tplus-ajaxpro-rce](http/vulnerabilities/changjet/changjet-tplus-ajaxpro-rce.yaml)
 * [changjet-tplus-downloadproxy-traversal](http/vulnerabilities/changjet/changjet-tplus-downloadproxy-traversal.yaml)
 
 
-### dahua
+### 大华
 
 * [dahua-passowrd-disclosure](http/vulnerabilities/dahua/dahua-passowrd-disclosure.yaml)
 * [dahua-publishing-fileupload](http/vulnerabilities/dahua/dahua-publishing-fileupload.yaml)
 * [dahua-searchJson-sqli](http/vulnerabilities/dahua/dahua-searchJson-sqli.yaml)
 
 
-### fanruan
+### 帆软
 
 * [fanruan-deserialization](http/vulnerabilities/fanruan/fanruan-deserialization.yaml)
 
 
-### flyrise
+### 飞企互联
 
 * [flyrise-fe-ShowImageServlet-fileread](http/vulnerabilities/flyrise/flyrise-fe-ShowImageServlet-fileread.yaml)
 
 
-### glodon
+### 广联达
 
 * [glodon-linkworks-GetIMDictionary-sqli](http/vulnerabilities/glodon/glodon-linkworks-GetIMDictionary-sqli.yaml)
 
 
-### goldlib
+### 金盘
 
 * [goldlib-wechat-info-disclosure](http/vulnerabilities/goldlib/goldlib-wechat-info-disclosure.yaml)
 
 
-### hand
+### 汉得
 
 * [hand-srm-auth-bypass](http/vulnerabilities/hand/hand-srm-auth-bypass.yaml)
 
 
-### hikvision
+### 海康威视
 
 * [hikvision-env-disclosure](http/vulnerabilities/hikvision/hikvision-env-disclosure.yaml)
 * [hikvision-iSecureCenter-fileread](http/vulnerabilities/hikvision/hikvision-iSecureCenter-fileread.yaml)
@@ -63,30 +63,30 @@ nuclei templates
 * [hikvision-report-fileupload](http/vulnerabilities/hikvision/hikvision-report-fileupload.yaml)
 
 
-### hjsoft
+### 宏景
 
 * [hjsoft-hcm-arbitrary-file-fileupload](http/vulnerabilities/hjsoft/hjsoft-hcm-arbitrary-file-fileupload.yaml)
 
 
-### hongfan
+### 红帆
 
 * [hongfan-iorepsavexml-fileupload](http/vulnerabilities/hongfan/hongfan-iorepsavexml-fileupload.yaml)
 
 
-### huace
+### 华测
 
 * [huace-Config-infoLeak](http/vulnerabilities/huace/huace-Config-infoLeak.yaml)
 * [huace-FileDownLoad-fileRead](http/vulnerabilities/huace/huace-FileDownLoad-fileRead.yaml)
 
 
-### huatian
+### 华天动力
 
 * [huatian-oa-fileread](http/vulnerabilities/huatian/huatian-oa-fileread.yaml)
 * [huatian-oa-upload-file-upload](http/vulnerabilities/huatian/huatian-oa-upload-file-upload.yaml)
 * [huatian-oa-workFlowService-sqli](http/vulnerabilities/huatian/huatian-oa-workFlowService-sqli.yaml)
 
 
-### huawei
+### 华为
 
 * [huawei-auth-http-server-fileread](http/vulnerabilities/huawei/huawei-auth-http-server-fileread.yaml)
 
@@ -97,30 +97,30 @@ nuclei templates
 * [jeecg-boot-ssti](http/vulnerabilities/jeecg-boot/jeecg-boot-ssti.yaml)
 
 
-### jinhe
+### 金和
 
 * [jinhe-oa-c6-getSqlData-sqli](http/vulnerabilities/jinhe/jinhe-oa-c6-getSqlData-sqli.yaml)
 * [jinhe-oa-cj6-getattout-sql-injection](http/vulnerabilities/jinhe/jinhe-oa-cj6-getattout-sql-injection.yaml)
 
 
-### kingdee
+### 金蝶
 
 * [kingdee-cloud-CommonFileserver-fileread](http/vulnerabilities/kingdee/kingdee-cloud-CommonFileserver-fileread.yaml)
 * [kingdee-erp-binaryformatterproxy-deserialization](http/vulnerabilities/kingdee/kingdee-erp-binaryformatterproxy-deserialization.yaml)
 
 
-### koron
+### 科荣
 
 * [koron-aio-file-read](http/vulnerabilities/koron/koron-aio-file-read.yaml)
 
 
-### landray
+### 蓝凌
 
 * [landray-EKP-behavior-uaa](http/vulnerabilities/landray/landray-EKP-behavior-uaa.yml)
 * [landray-eis-rpt-listreport-definefield-sqli](http/vulnerabilities/landray/landray-eis-rpt-listreport-definefield-sqli.yaml)
 
 
-### lanhaizhuoyue
+### 蓝海卓越
 
 * [lanhaizhuoyue-debug-rce](http/vulnerabilities/lanhaizhuoyue/lanhaizhuoyue-debug-rce.yaml)
 
@@ -130,7 +130,7 @@ nuclei templates
 * [livebos-showimage-fileread](http/vulnerabilities/livebos/livebos-showimage-fileread.yaml)
 
 
-### qianxin
+### 奇安信
 
 * [qianxin-legendsec-SecGate-upload](http/vulnerabilities/qianxin/qianxin-legendsec-SecGate-upload.yaml)
 * [qianxin-legendsec-vpn-auth-bypass](http/vulnerabilities/qianxin/qianxin-legendsec-vpn-auth-bypass.yaml)
@@ -138,17 +138,17 @@ nuclei templates
 * [qianxin-tianqing-info-disclosure](http/vulnerabilities/qianxin/qianxin-tianqing-info-disclosure.yaml)
 
 
-### qywechat
+### 企业微信
 
 * [qywechat-secret-disclosure](http/vulnerabilities/qywechat/qywechat-secret-disclosure.yaml)
 
 
-### sangfor
+### 深信服
 
 * [sangfor-ad-login-rce](http/vulnerabilities/sangfor/sangfor-ad-login-rce.yaml)
 
 
-### seeyon
+### 致远
 
 * [seeyon-oa-file-read](http/vulnerabilities/seeyon/seeyon-oa-file-read.yaml)
 * [seeyon-oa-getAjaxDataServlet-xxe](http/vulnerabilities/seeyon/seeyon-oa-getAjaxDataServlet-xxe.yaml)
@@ -156,7 +156,7 @@ nuclei templates
 * [seeyon-oa-ucpcLogin-login-bypass](http/vulnerabilities/seeyon/seeyon-oa-ucpcLogin-login-bypass.yaml)
 
 
-### shikongzhiyou
+### 时空智友
 
 * [shikongzhiyou-login_fileread](http/vulnerabilities/shikongzhiyou/shikongzhiyou-login_fileread.yaml)
 
@@ -166,7 +166,7 @@ nuclei templates
 * [smartbi-windowunloading-rce](http/vulnerabilities/smartbi/smartbi-windowunloading-rce.yaml)
 
 
-### tongda
+### 通达
 
 * [tongda-api-ali-fileupload](http/vulnerabilities/tongda/tongda-api-ali-fileupload.yaml)
 * [tongda-delete-seal-sqli](http/vulnerabilities/tongda/tongda-delete-seal-sqli.yaml)
@@ -177,47 +177,47 @@ nuclei templates
 * [v-secure-edr-login-sqli](http/vulnerabilities/v-secure/v-secure-edr-login-sqli.yaml)
 
 
-### venustech
+### 启明
 
 * [venustech-4a-getMaster-disclosure](http/vulnerabilities/venustech/venustech-4a-getMaster-disclosure.yaml)
 
 
-### wanhu
+### 万户
 
 * [wanhu-smartUpload-fileupload](http/vulnerabilities/wanhu/wanhu-smartUpload-fileupload.yaml)
 
 
-### wantit
+### 企望制造
 
 * [wantit-erp-rce](http/vulnerabilities/wantit/wantit-erp-rce.yaml)
 
 
 
-### weaver/ecology
+### 泛微/ecology
 
 * [ecology-deleteUserRequestInfoByXml-xxe](http/vulnerabilities/weaver/ecology/ecology-deleteUserRequestInfoByXml-xxe.yaml)
 * [ecology-filedownloadforoutdoc-sqli](http/vulnerabilities/weaver/ecology/ecology-filedownloadforoutdoc-sqli.yaml)
 * [ecology-uploadFiles-temp-upload](http/vulnerabilities/weaver/ecology/ecology-uploadFiles-temp-upload.yaml)
 
 
-### wecrm
+### 任我行
 
 * [wecrm-SmsDataList-sqli](http/vulnerabilities/wecrm/wecrm-SmsDataList-sqli.yaml)
 
 
-### xinkaipu
+### 新开普
 
 * [xinkaipu-service.action-rCmd](http/vulnerabilities/xinkaipu/xinkaipu-service.action-rCmd.yaml)
 
 
-### yisaitong
+### 亿赛通
 
 * [yisaitong-UploadFileFromClientServiceForClient-fileUpload](http/vulnerabilities/yisaitong/yisaitong-UploadFileFromClientServiceForClient-fileUpload.yaml)
 * [yisaitong-dataimport-rce](http/vulnerabilities/yisaitong/yisaitong-dataimport-rce.yaml)
 * [yisaitong-dlUltrasec-fileread](http/vulnerabilities/yisaitong/yisaitong-dlUltrasec-fileread.yaml)
 
 
-### yonyou
+### 用友
 
 * [yonyou-fe-templateOfTaohong_manager-traversal](http/vulnerabilities/yonyou/yonyou-fe-templateOfTaohong_manager-traversal.yaml)
 * [yonyou-nc-cloud-rce](http/vulnerabilities/yonyou/yonyou-nc-cloud-rce.yaml)
@@ -226,3 +226,8 @@ nuclei templates
 * [yonyou-u8-registerservlet-sqli](http/vulnerabilities/yonyou/yonyou-u8-registerservlet-sqli.yaml)
 * [yonyou-u8-upload-fileupload](http/vulnerabilities/yonyou/yonyou-u8-upload-fileupload.yaml)
 * [yonyou-uploadApk-fileupload](http/vulnerabilities/yonyou/yonyou-uploadApk-fileupload.yaml)
+
+
+# 免责声明
+
+由于传播、利用本文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。所涉及工具来自网络，安全性自测。
