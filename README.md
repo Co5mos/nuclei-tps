@@ -3,6 +3,11 @@
 nuclei templates
 
 
+## headless
+
+* [bing-search](headless/bing-search.yaml)
+
+
 ## http-vulnerabilities
 
 
@@ -112,6 +117,7 @@ nuclei templates
 ### landray
 
 * [landray-EKP-behavior-uaa](http/vulnerabilities/landray/landray-EKP-behavior-uaa.yml)
+* [landray-eis-rpt-listreport-definefield-sqli](http/vulnerabilities/landray/landray-eis-rpt-listreport-definefield-sqli.yaml)
 
 
 ### lanhaizhuoyue
