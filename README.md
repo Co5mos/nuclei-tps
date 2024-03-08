@@ -51,6 +51,11 @@ nuclei templates
 * [goldlib-wechat-info-disclosure](http/vulnerabilities/goldlib/goldlib-wechat-info-disclosure.yaml)
 
 
+### 新华三
+
+* [h3c-selfservice-flexfileupload-file-upload](http/vulnerabilities/h3c/h3c-selfservice-flexfileupload-fileupload.yaml)
+
+
 ### 汉得
 
 * [hand-srm-auth-bypass](http/vulnerabilities/hand/hand-srm-auth-bypass.yaml)
