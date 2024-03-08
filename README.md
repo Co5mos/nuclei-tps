@@ -144,6 +144,11 @@ nuclei templates
 * [qywechat-secret-disclosure](http/vulnerabilities/qywechat/qywechat-secret-disclosure.yaml)
 
 
+### 锐捷
+
+* [ruijie-uac-remote-rce](http/vulnerabilities/ruijie/ruijie-uac-remote-rce.yaml)
+
+
 ### 深信服
 
 * [sangfor-ad-login-rce](http/vulnerabilities/sangfor/sangfor-ad-login-rce.yaml)
