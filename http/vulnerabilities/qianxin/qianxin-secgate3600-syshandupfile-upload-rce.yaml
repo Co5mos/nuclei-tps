@@ -1,7 +1,7 @@
 id: qax-secgate3600-syshandupfile-upload-rce
 
 info:
-  name: WangShen SecGate 3600 Firewall Arbitrary File Upload Vulnerability
+  name: WangShen SecGate 3600 Firewall - Arbitrary File Upload
   author: Co5mos
   severity: high
   description: |

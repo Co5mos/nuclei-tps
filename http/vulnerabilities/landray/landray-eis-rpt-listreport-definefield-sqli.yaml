@@ -1,7 +1,7 @@
 id: landray-eis-rpt-listreport-definefield-sqli
 
 info:
-  name: Landray EIS Smart Collaboration Platform rpt_listreport_definefield.aspx Interface SQL Injection
+  name: Landray EIS Smart Collaboration Platform rpt_listreport_definefield.aspx Interface - SQL Injection
   author: Co5mos
   severity: high
   description: |

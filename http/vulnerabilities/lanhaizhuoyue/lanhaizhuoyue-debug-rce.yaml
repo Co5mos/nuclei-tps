@@ -1,7 +1,7 @@
 id: lanhaizhuoyue-debug-rce
 
 info:
-  name: lanhaizhuoyue-debug-rce
+  name: Lanhaizhuoyue debug - Remote Code Execution
   author: Co5mos
   severity: critical
 
