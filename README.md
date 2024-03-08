@@ -28,6 +28,7 @@ nuclei templates
 * [dahua-passowrd-disclosure](http/vulnerabilities/dahua/dahua-passowrd-disclosure.yaml)
 * [dahua-publishing-fileupload](http/vulnerabilities/dahua/dahua-publishing-fileupload.yaml)
 * [dahua-searchJson-sqli](http/vulnerabilities/dahua/dahua-searchJson-sqli.yaml)
+* [dahua-eims-capture-handle-rce](http/vulnerabilities/dahua/dahua-eims-capture-handle-rce.yaml)
 
 
 ### 帆软
