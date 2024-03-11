@@ -239,6 +239,7 @@ nuclei templates
 * [yonyou-u8-registerservlet-sqli](http/vulnerabilities/yonyou/yonyou-u8-registerservlet-sqli.yaml)
 * [yonyou-u8-upload-fileupload](http/vulnerabilities/yonyou/yonyou-u8-upload-fileupload.yaml)
 * [yonyou-uploadApk-fileupload](http/vulnerabilities/yonyou/yonyou-uploadApk-fileupload.yaml)
+* [yonyou-ufida-nc-savedoc-file-upload](http/vulnerabilities/yonyou/yonyou-ufida-nc-savedoc-file-upload.yaml)
 
 
 # 免责声明
