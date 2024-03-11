@@ -78,6 +78,7 @@ nuclei templates
 ### 红帆
 
 * [hongfan-iorepsavexml-fileupload](http/vulnerabilities/hongfan/hongfan-iorepsavexml-fileupload.yaml)
+* [hongfan-iodesktopdata-sqli](http/vulnerabilities/hongfan/hongfan-iodesktopdata-sqli.yaml)
 
 
 ### 华测
