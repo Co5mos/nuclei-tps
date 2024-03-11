@@ -72,6 +72,7 @@ nuclei templates
 ### 宏景
 
 * [hjsoft-hcm-arbitrary-file-fileupload](http/vulnerabilities/hjsoft/hjsoft-hcm-arbitrary-file-fileupload.yaml)
+* [hjsoft-hcm-DisplayExcelCustomReport-arbitrary-fileread](http/vulnerabilities/hjsoft/hjsoft-hcm-DisplayExcelCustomReport-arbitrary-fileread.yaml)
 
 
 ### 红帆
