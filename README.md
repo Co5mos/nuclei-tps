@@ -8,6 +8,17 @@ nuclei templates
 * [bing-search](headless/bing-search.yaml)
 
 
+## http-cves
+
+
+### 2023
+
+* [CVE-2023-1389](http/cves/2023/CVE-2023-1389.yaml)
+* [CVE-2023-2523](http/cves/2023/CVE-2023-2523.yaml)
+* [CVE-2023-2648](http/cves/2023/CVE-2023-2648.yaml)
+* [CVE-2023-49442](http/cves/2023/CVE-2023-49442.yaml)
+
+
 ## http-vulnerabilities
 
 
