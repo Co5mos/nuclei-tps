@@ -116,6 +116,11 @@ nuclei templates
 * [jeecg-boot-ssti](http/vulnerabilities/jeecg-boot/jeecg-boot-ssti.yaml)
 
 
+### jeewms
+
+* [jeewms-dynamicDataSourceController-rce](http/vulnerabilities/jeewms/jeewms-dynamicDataSourceController-rce.yaml)
+
+
 ### 金和
 
 * [jinhe-oa-c6-getSqlData-sqli](http/vulnerabilities/jinhe/jinhe-oa-c6-getSqlData-sqli.yaml)
