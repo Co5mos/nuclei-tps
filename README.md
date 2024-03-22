@@ -34,6 +34,11 @@ nuclei templates
 * [changjet-tplus-downloadproxy-traversal](http/vulnerabilities/changjet/changjet-tplus-downloadproxy-traversal.yaml)
 
 
+### ComfyUI
+
+* [comfyui-lfi](http/vulnerabilities/comfyui/comfyui-lfi.yaml)
+
+
 ### 大华
 
 * [dahua-passowrd-disclosure](http/vulnerabilities/dahua/dahua-passowrd-disclosure.yaml)
