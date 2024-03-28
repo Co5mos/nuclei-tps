@@ -123,7 +123,8 @@ nuclei templates
 
 ### jeewms
 
-* [jeewms-dynamicDataSourceController-rce](http/vulnerabilities/jeewms/jeewms-dynamicDataSourceController-rce.yaml)
+* [JEEWMS存在命令执行漏洞](http/vulnerabilities/jeewms/jeewms-dynamicDataSourceController-rce.yaml)
+* [JEEWMS存在权限绕过漏洞](http/vulnerabilities/jeewms/jeewms-privilege-bypass.yaml)
 
 
 ### 金和
