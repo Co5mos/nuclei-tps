@@ -6,11 +6,8 @@ info:
   severity: critical
   metadata:
     max-request: 1
-    fofa-query: app="dahua-智慧园区综合管理平台"
+    fofa-query: body="cas/css/ace-part2.min.css"
   tags: dahua,sqli
-
-variables:
-  num: "999999999"
 
 http:
   - method: GET

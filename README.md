@@ -41,10 +41,11 @@ nuclei templates
 
 ### 大华
 
-* [dahua-passowrd-disclosure](http/vulnerabilities/dahua/dahua-passowrd-disclosure.yaml)
-* [dahua-publishing-fileupload](http/vulnerabilities/dahua/dahua-publishing-fileupload.yaml)
-* [dahua-searchJson-sqli](http/vulnerabilities/dahua/dahua-searchJson-sqli.yaml)
-* [dahua-eims-capture-handle-rce](http/vulnerabilities/dahua/dahua-eims-capture-handle-rce.yaml)
+* [大华 智慧园区综合管理平台 user_getUserInfoByUserName.action 账号密码泄漏漏洞](http/vulnerabilities/dahua/dahua-passowrd-disclosure.yaml)
+* [大华 智慧园区综合管理平台 文件上传漏洞](http/vulnerabilities/dahua/dahua-publishing-fileupload.yaml)
+* [大华 智慧园区综合管理平台 searchJson SQL 注入漏洞](http/vulnerabilities/dahua/dahua-searchJson-sqli.yaml)
+* [大华 EIMS-capture_handle 接口远程命令执行漏洞](http/vulnerabilities/dahua/dahua-eims-capture-handle-rce.yaml)
+* [大华 智慧园区综合管理平台 clientServer 接口 SQL 注入漏洞](http/vulnerabilities/dahua/dahua-smart-park-clientServer-sqli.yaml)
 
 
 ### 帆软

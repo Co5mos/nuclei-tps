@@ -5,9 +5,6 @@ info:
   author: Co5mos
   severity: critical
 
-variables:
-  num: "999999999"
-
 http:
   - method: GET
     path:
