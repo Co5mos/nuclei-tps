@@ -136,8 +136,8 @@ nuclei templates
 
 ### 金蝶
 
-* [kingdee-cloud-CommonFileserver-fileread](http/vulnerabilities/kingdee/kingdee-cloud-CommonFileserver-fileread.yaml)
-* [kingdee-erp-binaryformatterproxy-deserialization](http/vulnerabilities/kingdee/kingdee-erp-binaryformatterproxy-deserialization.yaml)
+* [金蝶云星空 CommonFileServer 文件读取漏洞](http/vulnerabilities/kingdee/kingdee-cloud-CommonFileserver-fileread.yaml)
+* [金蝶云星空反序列化远程命令执行漏洞](http/vulnerabilities/kingdee/kingdee-erp-binaryformatterproxy-deserialization.yaml)
 
 
 ### 科荣
@@ -255,14 +255,15 @@ nuclei templates
 
 ### 用友
 
-* [yonyou-fe-templateOfTaohong_manager-traversal](http/vulnerabilities/yonyou/yonyou-fe-templateOfTaohong_manager-traversal.yaml)
-* [yonyou-nc-cloud-rce](http/vulnerabilities/yonyou/yonyou-nc-cloud-rce.yaml)
-* [yonyou-nc-wsncapplet-disclosure](http/vulnerabilities/yonyou/yonyou-nc-wsncapplet-disclosure.yaml)
-* [yonyou-u8-UploadFileData-fileupload](http/vulnerabilities/yonyou/yonyou-u8-UploadFileData-fileupload.yaml)
-* [yonyou-u8-registerservlet-sqli](http/vulnerabilities/yonyou/yonyou-u8-registerservlet-sqli.yaml)
-* [yonyou-u8-upload-fileupload](http/vulnerabilities/yonyou/yonyou-u8-upload-fileupload.yaml)
-* [yonyou-uploadApk-fileupload](http/vulnerabilities/yonyou/yonyou-uploadApk-fileupload.yaml)
-* [yonyou-ufida-nc-savedoc-file-upload](http/vulnerabilities/yonyou/yonyou-ufida-nc-savedoc-file-upload.yaml)
+* [用友 FE 协作办公平台 templateOfTaohong_manager.jsp 目录遍历漏洞](http/vulnerabilities/yonyou/yonyou-fe-templateOfTaohong_manager-traversal.yaml)
+* [用友 NC-Cloud 任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-nc-cloud-rce.yaml)
+* [用友 NC wsncapplet 信息泄露漏洞](http/vulnerabilities/yonyou/yonyou-nc-wsncapplet-disclosure.yaml)
+* [用友 GRP-U8 UploadFileData 任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-u8-UploadFileData-fileupload.yaml)
+* [用友 U8-Cloud RegisterServlet SQL 注入](http/vulnerabilities/yonyou/yonyou-u8-registerservlet-sqli.yaml)
+* [用友 U8 任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-u8-upload-fileupload.yaml)
+* [用友 移动管理系统 uploadApk.do 任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-uploadApk-fileupload.yaml)
+* [用友 UFIDA-NC saveDoc.ajax 文件上传漏洞](http/vulnerabilities/yonyou/yonyou-ufida-nc-savedoc-file-upload.yaml)
+* [用友 U8cloud-ExportUfoFormatAction SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-ExportUfoFormatAction-sqli.yaml)
 
 
 # 免责声明
