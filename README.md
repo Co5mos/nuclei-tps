@@ -89,8 +89,9 @@ nuclei templates
 
 ### 宏景
 
-* [hjsoft-hcm-arbitrary-file-fileupload](http/vulnerabilities/hjsoft/hjsoft-hcm-arbitrary-file-fileupload.yaml)
-* [hjsoft-hcm-DisplayExcelCustomReport-arbitrary-fileread](http/vulnerabilities/hjsoft/hjsoft-hcm-DisplayExcelCustomReport-arbitrary-fileread.yaml)
+* [宏景 eHR 任意文件上传漏洞](http/vulnerabilities/hjsoft/hjsoft-hcm-arbitrary-file-fileupload.yaml)
+* [宏景 DisplayExcelCustomReport 任意文件读取漏洞](http/vulnerabilities/hjsoft/hjsoft-hcm-DisplayExcelCustomReport-arbitrary-fileread.yaml)
+* [宏景 eHR 人力资源管理软件 showmediainfo 存在 SQL 注入漏洞](http/vulnerabilities/hjsoft/hjsoft-ehr-showmediainfo-sqli.yaml)
 
 
 ### 红帆
