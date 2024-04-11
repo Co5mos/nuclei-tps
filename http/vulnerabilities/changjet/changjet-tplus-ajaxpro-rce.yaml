@@ -13,8 +13,8 @@ info:
   metadata:
     max-request: 1
     verified: true
-    fofa-query: app="sangfor"
-  tags: sangfor,rce
+    fofa-query: app="畅捷通-TPlus"
+  tags: rce,changjie,tplus
 
 http:
   - raw:
