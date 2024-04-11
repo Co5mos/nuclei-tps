@@ -2,6 +2,7 @@ id: yonyou-u8-cloud-RegisterServlet-sql
 
 info:
   name: 用友u8-cloud RegisterServlet SQL注入
+  author: Co5mos
   severity: high
   description:
     用友U8 cloud的RegisterServlet接口对用户传入的参数未进行有效的过滤，攻击者可利用该漏洞进行sql注入。
