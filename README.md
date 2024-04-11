@@ -267,6 +267,7 @@ nuclei templates
 * [用友 UFIDA-NC saveDoc.ajax 文件上传漏洞](http/vulnerabilities/yonyou/yonyou-ufida-nc-savedoc-file-upload.yaml)
 * [用友 U8cloud-ExportUfoFormatAction SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-ExportUfoFormatAction-sqli.yaml)
 * [用友 NC workflowImageServlet 接口存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-workflowImageServlet-sqli.yaml)
+* * [用友 NC runStateServlet 接口存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-runStateServlet-sqli.yaml)
 
 
 # 免责声明
