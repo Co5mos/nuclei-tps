@@ -272,6 +272,11 @@ nuclei templates
 * [用友 NC 接口 PaWfm 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-PaWfm-sqli.yaml)
 
 
+### 禅道
+
+* [禅道项目管理系统身份认证绕过漏洞](http/vulnerabilities/zentao/zentao-zentaosid-auth-bypass.yaml)
+
+
 # 免责声明
 
 1. 用途限制：本项目内容仅供技术学习参考，严禁用于任何违法违规行为。用户选择使用本项目，即表示理解并同意自行承担所有相关责任。项目维护者不承担因用户使用本项目内容而引起的任何法律责任。
