@@ -49,6 +49,11 @@ nuclei templates
 * [大华 智慧园区综合管理平台 clientServer 接口 SQL 注入漏洞](http/vulnerabilities/dahua/dahua-smart-park-clientServer-sqli.yaml)
 
 
+### 普元
+
+* [普元EOS Platform eos.jmx 远程代码执行漏洞](http/vulnerabilities/eos/eos-platform-eos-jmx-rce.yaml)
+
+
 ### 帆软
 
 * [fanruan-deserialization](http/vulnerabilities/fanruan/fanruan-deserialization.yaml)
