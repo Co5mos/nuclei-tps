@@ -169,6 +169,11 @@ nuclei templates
 * [livebos-showimage-fileread](http/vulnerabilities/livebos/livebos-showimage-fileread.yaml)
 
 
+### 铭飞CMS
+
+* [Mingsoft MCMS v5.2.9 前台查询文章列表接口存在SQL注入](http/vulnerabilities/mcms/mcms-list-do-sqli.yaml)
+
+
 ### 奇安信
 
 * [qianxin-legendsec-SecGate-upload](http/vulnerabilities/qianxin/qianxin-legendsec-SecGate-upload.yaml)
