@@ -187,6 +187,12 @@ nuclei templates
 * [qywechat-secret-disclosure](http/vulnerabilities/qywechat/qywechat-secret-disclosure.yaml)
 
 
+## 瑞友
+
+* [瑞友天翼应用虚拟化系统 SQL 注入漏洞](http/vulnerabilities/realor/realor-appdel-sqli.yaml)
+* [瑞友天翼应用虚拟化系统 SQL 注入致远程代码执行漏洞](http/vulnerabilities/realor/realor-appsave-sqli-rce.yaml)
+
+
 ### 锐捷
 
 * [ruijie-uac-remote-rce](http/vulnerabilities/ruijie/ruijie-uac-remote-rce.yaml)
