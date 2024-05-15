@@ -251,9 +251,10 @@ nuclei templates
 
 ### 泛微/ecology
 
-* [ecology-deleteUserRequestInfoByXml-xxe](http/vulnerabilities/weaver/ecology/ecology-deleteUserRequestInfoByXml-xxe.yaml)
-* [ecology-filedownloadforoutdoc-sqli](http/vulnerabilities/weaver/ecology/ecology-filedownloadforoutdoc-sqli.yaml)
-* [ecology-uploadFiles-temp-upload](http/vulnerabilities/weaver/ecology/ecology-uploadFiles-temp-upload.yaml)
+* [泛微OA E-Cology deleteUserRequestInfoByXml XXE 漏洞](http/vulnerabilities/weaver/ecology/ecology-deleteUserRequestInfoByXml-xxe.yaml)
+* [泛微OA E-cology filedownloadforoutdoc SQL 注入漏洞](http/vulnerabilities/weaver/ecology/ecology-filedownloadforoutdoc-sqli.yaml)
+* [泛微OA E-cology uploadFiles 任意文件上传漏洞](http/vulnerabilities/weaver/ecology/ecology-uploadFiles-temp-upload.yaml)
+* [泛微OA E-cology ResourceServlet 任意文件读取漏洞](http/vulnerabilities/weaver/ecology/ecology-resourceservlet-lfi.yaml)
 
 
 ### 任我行
