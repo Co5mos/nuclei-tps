@@ -16,6 +16,7 @@ http:
 
     body: "command=ViewUploadFile&filePath=c:/windows/win.ini&fileName1=123456"
 
+    matchers-condition: and
     matchers:
       - type: word
         words:

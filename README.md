@@ -248,7 +248,6 @@ nuclei templates
 * [wantit-erp-rce](http/vulnerabilities/wantit/wantit-erp-rce.yaml)
 
 
-
 ### 泛微/ecology
 
 * [泛微OA E-Cology deleteUserRequestInfoByXml XXE 漏洞](http/vulnerabilities/weaver/ecology/ecology-deleteUserRequestInfoByXml-xxe.yaml)
@@ -290,6 +289,7 @@ nuclei templates
 * [用友 NC runStateServlet 接口存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-runStateServlet-sqli.yaml)
 * [用友 NC 接口 PaWfm 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-PaWfm-sqli.yaml)
 * [用友 NC bill 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-down-bill-sqli.yaml)
+* [用友 NC printBill 接口任意文件读取漏洞](http/vulnerabilities/yonyou/yonyou-nc-printBill-lfi.yaml)
 
 
 ### 禅道

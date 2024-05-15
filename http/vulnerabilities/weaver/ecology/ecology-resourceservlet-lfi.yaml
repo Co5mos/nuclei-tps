@@ -15,6 +15,7 @@ http:
     path:
       - "{{BaseURL}}/weaver/org.springframework.web.servlet.ResourceServlet?resource=/WEB-INF/prop/weaver.properties"
 
+    matchers-condition: and
     matchers:
       - type: status
         status:
