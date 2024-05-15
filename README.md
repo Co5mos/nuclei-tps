@@ -290,6 +290,7 @@ nuclei templates
 * [用友 NC 接口 PaWfm 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-PaWfm-sqli.yaml)
 * [用友 NC bill 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-down-bill-sqli.yaml)
 * [用友 NC printBill 接口任意文件读取漏洞](http/vulnerabilities/yonyou/yonyou-nc-printBill-lfi.yaml)
+* [用友 NC registerServlet 接口 JNDI 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-registerServlet-jndi-injection.yaml)
 
 
 ### 禅道
