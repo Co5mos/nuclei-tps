@@ -268,9 +268,10 @@ nuclei templates
 
 ### 亿赛通
 
-* [yisaitong-UploadFileFromClientServiceForClient-fileUpload](http/vulnerabilities/yisaitong/yisaitong-UploadFileFromClientServiceForClient-fileUpload.yaml)
-* [yisaitong-dataimport-rce](http/vulnerabilities/yisaitong/yisaitong-dataimport-rce.yaml)
-* [yisaitong-dlUltrasec-fileread](http/vulnerabilities/yisaitong/yisaitong-dlUltrasec-fileread.yaml)
+* [亿赛通电子文档安全管理系统 UploadFileFromClientServiceForClient 任意文件上传漏洞](http/vulnerabilities/yisaitong/yisaitong-UploadFileFromClientServiceForClient-fileUpload.yaml)
+* [亿赛通电子文档安全管理系统 dataimport 远程代码执行漏洞](http/vulnerabilities/yisaitong/yisaitong-dataimport-rce.yaml)
+* [亿赛通电子文档安全管理系统 dlUltrasec 任意文件读取漏洞](http/vulnerabilities/yisaitong/yisaitong-dlUltrasec-fileread.yaml)
+* [亿赛通电子文档安全管理系统 UploadFileManagerService 任意文件读取漏洞](http/vulnerabilities/yisaitong/yisaitong-uploadfilemanager-lfi.yaml)
 
 
 ### 用友
