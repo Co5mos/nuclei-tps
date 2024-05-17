@@ -47,7 +47,8 @@ nuclei templates
 * [大华 智慧园区综合管理平台 searchJson SQL 注入漏洞](http/vulnerabilities/dahua/dahua-searchJson-sqli.yaml)
 * [大华 EIMS-capture_handle 接口远程命令执行漏洞](http/vulnerabilities/dahua/dahua-eims-capture-handle-rce.yaml)
 * [大华 智慧园区综合管理平台 clientServer 接口 SQL 注入漏洞](http/vulnerabilities/dahua/dahua-smart-park-clientServer-sqli.yaml)
-* [大华 ICC 智能物联综合管理平台存在 fastjson 漏洞](http/vulnerabilities/dahua/dahua-icc-fastjson-rce.yaml)
+* [大华 ICC 智能物联综合管理平台 存在 fastjson 漏洞](http/vulnerabilities/dahua/dahua-icc-fastjson-rce.yaml)
+* [大华 ICC 智能物联综合管理平台 任意文件读取漏洞](http/vulnerabilities/dahua/dahua-icc-readPic-lfi.yaml)
 
 
 ### 普元
