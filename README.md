@@ -116,7 +116,6 @@ nuclei templates
 ### 华天动力
 
 * [huatian-oa-fileread](http/vulnerabilities/huatian/huatian-oa-fileread.yaml)
-* [huatian-oa-upload-file-upload](http/vulnerabilities/huatian/huatian-oa-upload-file-upload.yaml)
 * [huatian-oa-workFlowService-sqli](http/vulnerabilities/huatian/huatian-oa-workFlowService-sqli.yaml)
 
 
@@ -298,6 +297,7 @@ nuclei templates
 * [用友 NC 接口 PaWfm 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-PaWfm-sqli.yaml)
 * [用友 NC bill 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-down-bill-sqli.yaml)
 * [用友 NC registerServlet 接口 JNDI 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-registerServlet-jndi-injection.yaml)
+* [用友 CRM 系统 uploadfile.php 接口存在任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-crm-arbitrary-file-upload.yaml)
 
 
 ### 禅道
