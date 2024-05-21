@@ -206,6 +206,11 @@ nuclei templates
 * [sangfor-ad-login-rce](http/vulnerabilities/sangfor/sangfor-ad-login-rce.yaml)
 
 
+### 海洋CMS
+
+* [SeaCMS 海洋影视管理系统 dmku 存在 SQL 注入漏洞](http/vulnerabilities/seacms/seacms-dmku-sqli.yaml)
+
+
 ### 致远
 
 * [seeyon-oa-file-read](http/vulnerabilities/seeyon/seeyon-oa-file-read.yaml)
