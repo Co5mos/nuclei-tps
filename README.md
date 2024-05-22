@@ -298,6 +298,7 @@ nuclei templates
 * [用友 NC bill 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-down-bill-sqli.yaml)
 * [用友 NC registerServlet 接口 JNDI 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-registerServlet-jndi-injection.yaml)
 * [用友 CRM 系统 uploadfile.php 接口存在任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-crm-arbitrary-file-upload.yaml)
+* [用友 U8-Cloud 系统 XChangeServlet 接口 XXE 漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-xchangeservlet-xxe.yaml)
 
 
 ### 禅道
