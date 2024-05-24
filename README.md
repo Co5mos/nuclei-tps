@@ -303,6 +303,7 @@ nuclei templates
 * [用友 CRM 系统 uploadfile.php 接口存在任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-crm-arbitrary-file-upload.yaml)
 * [用友 U8-Cloud 系统 XChangeServlet 接口 XXE 漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-xchangeservlet-xxe.yaml)
 * [用友 NC complainbilldetail 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-complainbilldetail-sqli.yaml)
+* [用友 NC downTax 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-downtax-sqli.yaml)
 
 
 ### 禅道
