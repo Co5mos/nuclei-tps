@@ -100,6 +100,7 @@ nuclei templates
 * [宏景 DisplayExcelCustomReport 任意文件读取漏洞](http/vulnerabilities/hjsoft/hjsoft-hcm-DisplayExcelCustomReport-arbitrary-fileread.yaml)
 * [宏景 eHR 人力资源管理软件 showmediainfo 存在 SQL 注入漏洞](http/vulnerabilities/hjsoft/hjsoft-ehr-showmediainfo-sqli.yaml)
 * [宏景 HCM 系统 fieldsettree 接口 SQL 注入漏洞](http/vulnerabilities/hjsoft/hjsoft-hcm-fieldsettree-sqli.yaml)
+* [宏景 eHR OutputCode 存在任意文件读取漏洞](http/vulnerabilities/hjsoft/hjsoft-eHR-outputcode-lfi.yaml)
 
 
 ### 红帆
