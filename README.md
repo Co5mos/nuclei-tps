@@ -305,6 +305,7 @@ nuclei templates
 * [用友 NC complainbilldetail 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-complainbilldetail-sqli.yaml)
 * [用友 NC downTax 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-downtax-sqli.yaml)
 * [用友 NC warningDetailInfo 接口存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-warningdetailinfo-sqli.yaml)
+* [用友 NC 系统 linkVoucher 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-ufida-nc-linkvoucher-sqli.yaml)
 
 
 ### 禅道
