@@ -101,6 +101,7 @@ nuclei templates
 * [宏景 eHR 人力资源管理软件 showmediainfo 存在 SQL 注入漏洞](http/vulnerabilities/hjsoft/hjsoft-ehr-showmediainfo-sqli.yaml)
 * [宏景 HCM 系统 fieldsettree 接口 SQL 注入漏洞](http/vulnerabilities/hjsoft/hjsoft-hcm-fieldsettree-sqli.yaml)
 * [宏景 eHR OutputCode 存在任意文件读取漏洞](http/vulnerabilities/hjsoft/hjsoft-eHR-outputcode-lfi.yaml)
+* [宏景 eHR showmedia.jsp 存在 SQL 注入漏洞](http/vulnerabilities/hjsoft/hjsoft-ehr-showmedia-sqli.yaml)
 
 
 ### 红帆
@@ -315,7 +316,7 @@ nuclei templates
 
 ## http-technologies
 
-* [ehole-web-fingerprints](http/technologies/ehole-web-fingerprints.yaml)
+* [EHole 红队重点系统指纹探测](http/technologies/ehole-web-fingerprints.yaml)
 
 
 # 免责声明
