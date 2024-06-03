@@ -88,10 +88,11 @@ nuclei templates
 
 ### 海康威视
 
-* [hikvision-env-disclosure](http/vulnerabilities/hikvision/hikvision-env-disclosure.yaml)
-* [hikvision-iSecureCenter-fileread](http/vulnerabilities/hikvision/hikvision-iSecureCenter-fileread.yaml)
-* [hikvision-iSecureCenter-fileupload](http/vulnerabilities/hikvision/hikvision-iSecureCenter-fileupload.yaml)
-* [hikvision-report-fileupload](http/vulnerabilities/hikvision/hikvision-report-fileupload.yaml)
+* [HiKVISION 综合安防管理平台 env 信息泄漏漏洞](http/vulnerabilities/hikvision/hikvision-env-disclosure.yaml)
+* [Hikvision 综合安防管理平台任意文件读取漏洞](http/vulnerabilities/hikvision/hikvision-iSecureCenter-fileread.yaml)
+* [Hikvision 综合安防管理平台任意文件上传漏洞](http/vulnerabilities/hikvision/hikvision-iSecureCenter-fileupload.yaml)
+* [HiKVISION 综合安防管理平台 report 任意文件上传漏洞](http/vulnerabilities/hikvision/hikvision-report-fileupload.yaml)
+* [HiKVISION 综合安防管理平台 download 任意文件读取漏洞](http/vulnerabilities/hikvision/hikvision-orgs-download-lfi.yaml)
 
 
 ### 宏景
