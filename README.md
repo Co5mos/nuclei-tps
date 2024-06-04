@@ -250,7 +250,8 @@ nuclei templates
 
 ### 万户
 
-* [wanhu-smartUpload-fileupload](http/vulnerabilities/wanhu/wanhu-smartUpload-fileupload.yaml)
+* [万户 OA smartUpload.jsp 任意文件上传漏洞](http/vulnerabilities/wanhu/wanhu-smartUpload-fileupload.yaml)
+* [万户 ezEIP success.aspx 存在反序列化漏洞](http/vulnerabilities/wanhu/wanhu-ezEIP-success-rce.yaml)
 
 
 ### 企望制造
