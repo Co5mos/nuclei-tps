@@ -19,6 +19,11 @@ nuclei templates
 * [CVE-2023-49442](http/cves/2023/CVE-2023-49442.yaml)
 
 
+### 2024
+
+* [CVE-2024-36104](http/cves/2024/CVE-2024-36104.yaml)
+
+
 ## http-vulnerabilities
 
 
