@@ -5,7 +5,7 @@ info:
   severity: critical
   description: 宏景人力资源信息管理系统 ajaxService SQL 注入漏洞
   metadata:
-    fofa-query: 'app="HJSOFT-HR"'
+    fofa-query: app="HJSOFT-HCM"
   tags: hjsoft,sqli
 
 variables:
