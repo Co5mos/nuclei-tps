@@ -109,6 +109,7 @@ nuclei templates
 * [宏景 eHR OutputCode 存在任意文件读取漏洞](http/vulnerabilities/hjsoft/hjsoft-eHR-outputcode-lfi.yaml)
 * [宏景 eHR showmedia.jsp 存在 SQL 注入漏洞](http/vulnerabilities/hjsoft/hjsoft-ehr-showmedia-sqli.yaml)
 * [宏景 HCM pos_dept_post 存在 SQL 注入漏洞](http/vulnerabilities/hjsoft/hjsoft-hcm-pos-dept-post-sqli.yaml)
+* [宏景 HCM ajaxService 接口处存在 SQL 注入漏洞](http/vulnerabilities/hjsoft/hjsoft-eHR-system-sqli.yaml)
 
 
 ### 红帆
