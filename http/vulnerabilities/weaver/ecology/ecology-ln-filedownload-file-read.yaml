@@ -22,6 +22,7 @@ http:
           - 200
 
       - type: word
+        part: body
         words:
           - "<?xml version="
           - "<web-app"

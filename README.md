@@ -71,6 +71,11 @@ nuclei templates
 * [fanruan-deserialization](http/vulnerabilities/fanruan/fanruan-deserialization.yaml)
 
 
+### 飞鱼星
+
+* [鱼星上网行为管理系统 企业版前台远程命令执行漏洞](http/vulnerabilities/feiyuxing/feiyuxing-multiple-service-gateway-rce.yaml)
+
+
 ### 飞企互联
 
 * [flyrise-fe-ShowImageServlet-fileread](http/vulnerabilities/flyrise/flyrise-fe-ShowImageServlet-fileread.yaml)
