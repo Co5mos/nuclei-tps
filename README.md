@@ -24,6 +24,11 @@ nuclei templates
 * [CVE-2024-36104](http/cves/2024/CVE-2024-36104.yaml)
 
 
+## http-technologies
+
+* [EHole 红队重点系统指纹探测](http/technologies/ehole-web-fingerprints.yaml)
+
+
 ## http-vulnerabilities
 
 
@@ -98,6 +103,7 @@ nuclei templates
 * [Hikvision 综合安防管理平台任意文件上传漏洞](http/vulnerabilities/hikvision/hikvision-iSecureCenter-fileupload.yaml)
 * [HiKVISION 综合安防管理平台 report 任意文件上传漏洞](http/vulnerabilities/hikvision/hikvision-report-fileupload.yaml)
 * [HiKVISION 综合安防管理平台 download 任意文件读取漏洞](http/vulnerabilities/hikvision/hikvision-orgs-download-lfi.yaml)
+* [HiKVISION 综合安防管理平台 installation 远程命令执行](http/vulnerabilities/hikvision/hikvision-csmp-installation-rce.yaml)
 
 
 ### 宏景
@@ -325,11 +331,6 @@ nuclei templates
 ### 禅道
 
 * [禅道项目管理系统身份认证绕过漏洞](http/vulnerabilities/zentao/zentao-zentaosid-auth-bypass.yaml)
-
-
-## http-technologies
-
-* [EHole 红队重点系统指纹探测](http/technologies/ehole-web-fingerprints.yaml)
 
 
 # 免责声明
