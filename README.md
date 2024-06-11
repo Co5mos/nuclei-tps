@@ -110,6 +110,7 @@ nuclei templates
 * [HiKVISION 综合安防管理平台 download 任意文件读取漏洞](http/vulnerabilities/hikvision/hikvision-orgs-download-lfi.yaml)
 * [HiKVISION 综合安防管理平台 installation 远程命令执行](http/vulnerabilities/hikvision/hikvision-csmp-installation-rce.yaml)
 * [HiKVISION 综合安防管理平台 applyAutoLoginTicket 远程代码执行漏洞](http/vulnerabilities/hikvision/hikvision-csmp-deserialization.yaml)
+* [HiKVISION 综合安防管理平台 productFile 远程代码执行](http/vulnerabilities/hikvision/hikvision-csmp-productfile-rce.yaml)
 
 
 ### 宏景
