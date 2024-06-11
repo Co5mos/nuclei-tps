@@ -1,7 +1,7 @@
 id: hikvision-csmp-installation-rce
 
 info:
-  name: Hikvision Hikvision Comprehensive Security Management Platform Installation RCE
+  name: Hikvision Comprehensive Security Management Platform Installation RCE
   author: Co5mos
   severity: critical
   description: |
