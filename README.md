@@ -167,6 +167,7 @@ nuclei templates
 * [金和 OA C6 GetSqlData.aspx SQL 注入漏洞](http/vulnerabilities/jinhe/jinhe-oa-c6-getSqlData-sqli.yaml)
 * [金和 OA C6 GetAttOut 接口 SQL注入漏洞](http/vulnerabilities/jinhe/jinhe-oa-cj6-getattout-sql-injection.yaml)
 * [金和 OA C6 FileDownLoad.aspx 任意文件读取漏洞](http/vulnerabilities/jinhe/jinhe-oa-c6-filedownload-lfi.yaml)
+* [金和 OA C6 download.jsp 任意文件读取漏洞](http/vulnerabilities/jinhe/jinhe-oa-c6-download-file-read.yaml)
 
 
 ### 金蝶
