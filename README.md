@@ -223,7 +223,8 @@ nuclei templates
 
 ### 锐捷
 
-* [ruijie-uac-remote-rce](http/vulnerabilities/ruijie/ruijie-uac-remote-rce.yaml)
+* [锐捷 UAC online_check.php 未授权远程代码命令执行漏洞](http/vulnerabilities/ruijie/ruijie-uac-remote-rce.yaml)
+* [锐捷校园网自助服务系统 login_judge.jsf 任意文件读取漏洞](http/vulnerabilities/ruijie/ruijie-campus-selfservice-login-judge-file-read.yaml)
 
 
 ### 深信服
