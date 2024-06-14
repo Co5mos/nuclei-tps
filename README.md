@@ -336,6 +336,7 @@ nuclei templates
 * [用友 NC 系统 linkVoucher 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-ufida-nc-linkvoucher-sqli.yaml)
 * [用友 NC pagesServlet 存在 SQL 注入](http/vulnerabilities/yonyou/yonyou-ufida-nc-pagesservlet-sqli.yaml)
 * [用友 NC downCourseWare 任意文件读取](http/vulnerabilities/yonyou/yonyou-nc-downcourseware-file-read.yaml)
+* [用友 NC oacoSchedulerEvents 接口存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-oacoSchedulerEvents-sqli.yaml)
 
 
 ### 禅道
