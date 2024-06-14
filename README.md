@@ -239,10 +239,11 @@ nuclei templates
 
 ### 致远
 
-* [seeyon-oa-file-read](http/vulnerabilities/seeyon/seeyon-oa-file-read.yaml)
-* [seeyon-oa-getAjaxDataServlet-xxe](http/vulnerabilities/seeyon/seeyon-oa-getAjaxDataServlet-xxe.yaml)
-* [seeyon-oa-m1server-userTokenService-rce](http/vulnerabilities/seeyon/seeyon-oa-m1server-userTokenService-rce.yaml)
-* [seeyon-oa-ucpcLogin-login-bypass](http/vulnerabilities/seeyon/seeyon-oa-ucpcLogin-login-bypass.yaml)
+* [致远OA wpsAssistServlet 文件 templateUrl 参数任意文件读取漏洞](http/vulnerabilities/seeyon/seeyon-oa-file-read.yaml)
+* [致远OA getAjaxDataServlet 接口存在任 XXE 漏洞](http/vulnerabilities/seeyon/seeyon-oa-getAjaxDataServlet-xxe.yaml)
+* [致远OA M1Server userTokenService 接口存在远程命令执行漏洞](http/vulnerabilities/seeyon/seeyon-oa-m1server-userTokenService-rce.yaml)
+* [致远OA ucpcLogin 登录绕过漏洞](http/vulnerabilities/seeyon/seeyon-oa-ucpcLogin-login-bypass.yaml)
+* [致远OA 帆软组件 ReportServer 目录遍历漏洞](http/vulnerabilities/seeyon/seeyon-oa-reportserver-dir-traversal.yaml)
 
 
 ### 时空智友
