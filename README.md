@@ -244,6 +244,7 @@ nuclei templates
 * [致远OA M1Server userTokenService 接口存在远程命令执行漏洞](http/vulnerabilities/seeyon/seeyon-oa-m1server-userTokenService-rce.yaml)
 * [致远OA ucpcLogin 登录绕过漏洞](http/vulnerabilities/seeyon/seeyon-oa-ucpcLogin-login-bypass.yaml)
 * [致远OA 帆软组件 ReportServer 目录遍历漏洞](http/vulnerabilities/seeyon/seeyon-oa-reportserver-dir-traversal.yaml)
+* [致远互联 FE 协作办公平台 ncsubjass 存在 SQL 注入漏洞](http/vulnerabilities/seeyon/seeyon-fe-ncsubjass-sqli.yaml)
 
 
 ### 时空智友
