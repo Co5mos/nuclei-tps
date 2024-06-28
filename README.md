@@ -249,7 +249,8 @@ nuclei templates
 
 ### 时空智友
 
-* [shikongzhiyou-login_fileread](http/vulnerabilities/shikongzhiyou/shikongzhiyou-login_fileread.yaml)
+* [时空智友 企业流程化管控系统 login 文件读取漏洞](http/vulnerabilities/shikongzhiyou/shikongzhiyou-login_fileread.yaml)
+* [时空智友 企业流程化管控系统 uploadStudioFile 文件上传漏洞](http/vulnerabilities/shikongzhiyou/shikongzhiyou-erp-uploadStudioFile-fileupload.yaml)
 
 
 ### smartbi
@@ -342,6 +343,7 @@ nuclei templates
 * [用友 NC downCourseWare 任意文件读取](http/vulnerabilities/yonyou/yonyou-nc-downcourseware-file-read.yaml)
 * [用友 NC oacoSchedulerEvents 接口存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-oacoSchedulerEvents-sqli.yaml)
 * [用友 NC U9 PatchFile.asmx 接口任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-u9-patchfile-upload.yaml)
+* [用友 U8 Cloud smartweb2.showRPCLoadingTip.d XXE漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-showRPCLoadingTip-xxe.yaml)
 
 
 ### 禅道
