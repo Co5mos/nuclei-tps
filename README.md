@@ -74,13 +74,14 @@ nuclei templates
 
 ### 飞鱼星
 
-* [鱼星上网行为管理系统 企业版前台远程命令执行漏洞](http/vulnerabilities/feiyuxing/feiyuxing-multiple-service-gateway-rce.yaml)
+* [飞鱼星上网行为管理系统 企业版前台远程命令执行漏洞](http/vulnerabilities/feiyuxing/feiyuxing-multiple-service-gateway-rce.yaml)
 
 
 ### 飞企互联
 
 * [飞企互联 FE 企业运营管理平台 ShowImageServlet 任意文件读取漏洞](http/vulnerabilities/flyrise/flyrise-fe-ShowImageServlet-fileread.yaml)
 * [飞企互联 FE 企业运营管理平台 ajax_codewidget39.jsp 接口存在 SQL 注入漏洞](http/vulnerabilities/flyrise/flyrise-ajax-codewidget39-sqli.yaml)
+* [飞企互联 FE 企业运营管理平台 checkGroupCode.js 接口存在 SQL 注入漏洞](http/vulnerabilities/flyrise/flyrise-fe-checkgroupcode-sqli.yaml)
 
 
 ### 广联达
