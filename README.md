@@ -179,7 +179,8 @@ nuclei templates
 
 ### 科荣
 
-* [koron-aio-file-read](http/vulnerabilities/koron/koron-aio-file-read.yaml)
+* [科荣 AIO UtilServlet 存在任意文件读取漏洞](http/vulnerabilities/koron/koron-aio-file-read.yaml)
+* [科荣 AIO moffice 接口存在 SQL 注入漏洞](http/vulnerabilities/koron/keron-aio-moffice-sqli.yaml)
 
 
 ### 蓝凌
