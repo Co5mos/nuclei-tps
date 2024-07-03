@@ -43,7 +43,8 @@ nuclei templates
 
 * [畅捷通 TPlus App_Code.ashx存在远程命令执行漏洞](http/vulnerabilities/changjet/changjet-tplus-ajaxpro-rce.yaml)
 * [畅捷通 TPlus DownloadProxy.aspx 任意文件读取漏洞](http/vulnerabilities/changjet/changjet-tplus-downloadproxy-traversal.yaml)
-* [畅捷通 TPlus KeyInfoList.aspx存在SQL注入漏洞](http/vulnerabilities/changjet/changjet-tplus-keyinfolist-sqli.yaml)
+* [畅捷通 TPlus KeyInfoList.aspx 存在 SQL 注入漏洞](http/vulnerabilities/changjet/changjet-tplus-keyinfolist-sqli.yaml)
+* [畅捷通 TPlus KeyEdit.aspx 存在 SQL 注入漏洞](http/vulnerabilities/changjet/changjet-tplus-keyedit-sqli.yaml)
 
 
 ### ComfyUI
