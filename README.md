@@ -73,6 +73,11 @@ nuclei templates
 * [fanruan-deserialization](http/vulnerabilities/fanruan/fanruan-deserialization.yaml)
 
 
+### fastadmin
+
+* [Fastadmin 框架存在任意文件读取漏洞](http/vulnerabilities/fastadmin/fastadmin-framework-lfi.yaml)
+
+
 ### 飞鱼星
 
 * [飞鱼星上网行为管理系统 企业版前台远程命令执行漏洞](http/vulnerabilities/feiyuxing/feiyuxing-multiple-service-gateway-rce.yaml)
