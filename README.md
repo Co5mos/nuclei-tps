@@ -256,6 +256,7 @@ nuclei templates
 * [致远OA ucpcLogin 登录绕过漏洞](http/vulnerabilities/seeyon/seeyon-oa-ucpcLogin-login-bypass.yaml)
 * [致远OA 帆软组件 ReportServer 目录遍历漏洞](http/vulnerabilities/seeyon/seeyon-oa-reportserver-dir-traversal.yaml)
 * [致远互联 FE 协作办公平台 ncsubjass 存在 SQL 注入漏洞](http/vulnerabilities/seeyon/seeyon-fe-ncsubjass-sqli.yaml)
+* [致远互联 OA 前台 fileUpload.do 存在绕过文件上传漏洞](http/vulnerabilities/seeyon/seeyon-oa-fileupload-bypass.yaml)
 
 
 ### 时空智友
