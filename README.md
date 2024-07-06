@@ -134,6 +134,7 @@ nuclei templates
 * [宏景 HCM ajaxService 接口处存在 SQL 注入漏洞](http/vulnerabilities/hjsoft/hjsoft-eHR-system-sqli.yaml)
 * [宏景 eHR DisplayFiles 存在任意文件读取漏洞](http/vulnerabilities/hjsoft/hjsoft-servlet-DisplayFiles-fileread.yaml)
 * [宏景 eHR 人力资源管理系统接口 DownLoadCourseware 存在任意文件读取漏洞](http/vulnerabilities/hjsoft/hjsoft-hcm-downloadcourseware-lfi.yaml)
+* [宏景 eHR 人力资源管理系统接口 LoadOtherTreeServlet 存在SQL注入漏洞](http/vulnerabilities/hjsoft/hjsoft-hcm-loadothertree-sqli.yaml)
 
 
 ### 红帆
