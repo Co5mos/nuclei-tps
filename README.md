@@ -362,6 +362,7 @@ nuclei templates
 * [用友 NC U9 PatchFile.asmx 接口任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-u9-patchfile-upload.yaml)
 * [用友 U8 Cloud smartweb2.showRPCLoadingTip.d XXE漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-showRPCLoadingTip-xxe.yaml)
 * [用友 U8 cloud api_hr SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-api-hr-sqli.yaml)
+* [用友时空 KSOA 接口 com.sksoft.bill.QueryService 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-ksoa-queryservice-sqli.yaml)
 
 
 ### 禅道
