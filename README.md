@@ -338,21 +338,21 @@ nuclei templates
 ### 用友
 
 * [用友 FE 协作办公平台 templateOfTaohong_manager.jsp 目录遍历漏洞](http/vulnerabilities/yonyou/yonyou-fe-templateOfTaohong_manager-traversal.yaml)
-* [用友 NC-Cloud 任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-nc-cloud-rce.yaml)
+* [用友 NC Cloud 任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-nc-cloud-rce.yaml)
 * [用友 NC wsncapplet 信息泄露漏洞](http/vulnerabilities/yonyou/yonyou-nc-wsncapplet-disclosure.yaml)
 * [用友 GRP-U8 UploadFileData 任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-u8-UploadFileData-fileupload.yaml)
-* [用友 U8-Cloud RegisterServlet SQL 注入](http/vulnerabilities/yonyou/yonyou-u8-registerservlet-sqli.yaml)
+* [用友 U8 Cloud RegisterServlet SQL 注入](http/vulnerabilities/yonyou/yonyou-u8-registerservlet-sqli.yaml)
 * [用友 U8 任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-u8-upload-fileupload.yaml)
 * [用友 移动管理系统 uploadApk.do 任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-uploadApk-fileupload.yaml)
 * [用友 UFIDA-NC saveDoc.ajax 文件上传漏洞](http/vulnerabilities/yonyou/yonyou-ufida-nc-savedoc-file-upload.yaml)
-* [用友 U8cloud-ExportUfoFormatAction SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-ExportUfoFormatAction-sqli.yaml)
+* [用友 U8 cloud ExportUfoFormatAction SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-ExportUfoFormatAction-sqli.yaml)
 * [用友 NC workflowImageServlet 接口存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-workflowImageServlet-sqli.yaml)
 * [用友 NC runStateServlet 接口存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-runStateServlet-sqli.yaml)
 * [用友 NC 接口 PaWfm 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-PaWfm-sqli.yaml)
 * [用友 NC bill 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-down-bill-sqli.yaml)
 * [用友 NC registerServlet 接口 JNDI 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-registerServlet-jndi-injection.yaml)
 * [用友 CRM 系统 uploadfile.php 接口存在任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-crm-arbitrary-file-upload.yaml)
-* [用友 U8-Cloud 系统 XChangeServlet 接口 XXE 漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-xchangeservlet-xxe.yaml)
+* [用友 U8 Cloud 系统 XChangeServlet 接口 XXE 漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-xchangeservlet-xxe.yaml)
 * [用友 NC complainbilldetail 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-complainbilldetail-sqli.yaml)
 * [用友 NC downTax 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-downtax-sqli.yaml)
 * [用友 NC warningDetailInfo 接口存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-warningdetailinfo-sqli.yaml)
@@ -364,6 +364,7 @@ nuclei templates
 * [用友 U8 Cloud smartweb2.showRPCLoadingTip.d XXE漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-showRPCLoadingTip-xxe.yaml)
 * [用友 U8 cloud api_hr SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-api-hr-sqli.yaml)
 * [用友时空 KSOA 接口 com.sksoft.bill.QueryService 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-ksoa-queryservice-sqli.yaml)
+* [用友 NC Cloud 接口 blobRefClassSea 存在反序列化漏洞](http/vulnerabilities/yonyou/yonyou-nc-cloud-blobrefclasssearch-deserialization.yaml)
 
 
 ### 禅道

@@ -14,6 +14,7 @@ http:
   - raw:
     - |
       POST /api/doc/mobile/fileview/getFileViewUrl HTTP/1.1
+      Host: {{Hostname}}
       Content-Type: application/json
       
       {
