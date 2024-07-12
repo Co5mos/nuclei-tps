@@ -312,6 +312,7 @@ nuclei templates
 * [泛微OA E-Cology JqueryFileTree.jsp 目录遍历漏洞](http/vulnerabilities/weaver/ecology/ecology-jqueryfiletree-directory-traversal.yaml)
 * [泛微OA E-Cology ln.FileDownload 任意文件读取漏洞](http/vulnerabilities/weaver/ecology/ecology-ln-filedownload-file-read.yaml)
 * [泛微OA E-Cology KtreeUploadAction 任意文件上传漏洞](http/vulnerabilities/weaver/ecology/weaver-ecology-ktreeuploadaction-file-upload.yaml)
+* [泛微OA E-Cology 接口 getFileViewUrl 存在 SSRF 漏洞](http/vulnerabilities/weaver/ecology/weaver-ecology-getfileviewurl-ssrf.yaml)
 
 
 ### 任我行
