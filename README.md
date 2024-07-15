@@ -287,7 +287,8 @@ nuclei templates
 
 ### 启明
 
-* [venustech-4a-getMaster-disclosure](http/vulnerabilities/venustech/venustech-4a-getMaster-disclosure.yaml)
+* [启明星辰 4A 统一安全管控平台 getMater 信息泄漏](http/vulnerabilities/venustech/venustech-4a-getMaster-disclosure.yaml)
+* [启明星辰 天清汉马 VPN download 接口任意文件读取](http/vulnerabilities/venustech/venustech-vpn-download-file-read.yaml)
 
 
 ### 万户
