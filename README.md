@@ -367,6 +367,7 @@ nuclei templates
 * [用友 U8 cloud api_hr SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-api-hr-sqli.yaml)
 * [用友时空 KSOA 接口 com.sksoft.bill.QueryService 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-ksoa-queryservice-sqli.yaml)
 * [用友 NC Cloud 接口 blobRefClassSea 存在反序列化漏洞](http/vulnerabilities/yonyou/yonyou-nc-cloud-blobrefclasssearch-deserialization.yaml)
+* [用友 U8 Cloud 系统接口 MeasQueryConditionFrameAction 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-measquery-sqli.yaml)
 
 
 ### 禅道

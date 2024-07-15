@@ -2,7 +2,7 @@ id: weaver-ecology-workflowservicexml-sqli
 
 info:
   name: Weaver e-cology OA WorkflowServiceXml SQL Injection
-  author: yuxiang.cai
+  author: Co5mos
   severity: critical
   description: |
     Weaver e-cology OA WorkflowServiceXml接口存在SQL注入漏洞，未经身份验证的远程攻击者可以利用SQL注入漏洞获取敏感信息。
