@@ -88,6 +88,7 @@ nuclei templates
 * [飞企互联 FE 企业运营管理平台 ShowImageServlet 任意文件读取漏洞](http/vulnerabilities/flyrise/flyrise-fe-ShowImageServlet-fileread.yaml)
 * [飞企互联 FE 企业运营管理平台 ajax_codewidget39.jsp 接口存在 SQL 注入漏洞](http/vulnerabilities/flyrise/flyrise-ajax-codewidget39-sqli.yaml)
 * [飞企互联 FE 企业运营管理平台 checkGroupCode.js 接口存在 SQL 注入漏洞](http/vulnerabilities/flyrise/flyrise-fe-checkgroupcode-sqli.yaml)
+* [飞企互联 FE 企业运营管理平台 uploadAttachmentServlet 存在任意文件上传漏洞](http/vulnerabilities/flyrise/flyrise-fe-uploadAttachmentServlet-uploadfile.yaml)
 
 
 ### 广联达
