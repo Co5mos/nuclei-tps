@@ -92,7 +92,8 @@ nuclei templates
 
 ### 广联达
 
-* [glodon-linkworks-GetIMDictionary-sqli](http/vulnerabilities/glodon/glodon-linkworks-GetIMDictionary-sqli.yaml)
+* [广联达OA linkworks GetIMDictionary 接口存在 SQL 注入漏洞](http/vulnerabilities/glodon/glodon-linkworks-GetIMDictionary-sqli.yaml)
+* [广联达OA 接口 ArchiveWebService 存在 XML 实体注入漏洞](http/vulnerabilities/glodon/glodon-linkworks-ArchiveWebService-xxe.yaml)
 
 
 ### 金盘
