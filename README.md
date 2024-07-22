@@ -378,6 +378,7 @@ nuclei templates
 * [用友 NC Cloud 接口 blobRefClassSea 存在反序列化漏洞](http/vulnerabilities/yonyou/yonyou-nc-cloud-blobrefclasssearch-deserialization.yaml)
 * [用友 U8 Cloud 系统接口 MeasQueryConditionFrameAction 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-measquery-sqli.yaml)
 * [用友 GRP A Cloud 政府财务云系统接口 selectGlaDatasourcePreview 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-grp-cloud-selectGlaDatasourcePreview-sqli.yaml)
+* [用友 CRM 客户关系管理系统 import.php 存在任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-crm-import-file-upload.yaml)
 
 
 ### 禅道
