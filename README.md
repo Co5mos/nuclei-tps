@@ -233,6 +233,11 @@ nuclei templates
 * [qywechat-secret-disclosure](http/vulnerabilities/qywechat/qywechat-secret-disclosure.yaml)
 
 
+### 润乾
+
+* [润乾报表 dataSphereServlet 任意文件上传](http/vulnerabilities/raqsoft/raqsoft-dataSphereServlet-file-upload.yaml)
+
+
 ### 瑞友
 
 * [瑞友天翼应用虚拟化系统 SQL 注入漏洞](http/vulnerabilities/realor/realor-appdel-sqli.yaml)
