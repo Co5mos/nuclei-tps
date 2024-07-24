@@ -326,6 +326,11 @@ nuclei templates
 * [泛微OA E-Cology 接口 WorkflowServiceXml 存在 SQL 注入漏洞](http/vulnerabilities/weaver/ecology/weaver-ecology-workflowservicexml-sqli.yaml)
 
 
+### 泛微/emobile
+
+* [泛微 E-Mobile installOperate.do SSRF 漏洞](http/vulnerabilities/weaver/emobile/emobile-installOperate-ssrf.yaml)
+
+
 ### 泛微/eoffice
 
 * [泛微 E-office v10 接口 leave_record.php 存在 SQL 注入漏洞](http/vulnerabilities/weaver/eoffice/eoffice-v10-leave-record-sqli.yaml)
