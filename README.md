@@ -398,6 +398,7 @@ nuclei templates
 * [用友 U8 Cloud 系统接口 MeasQueryConditionFrameAction 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-measquery-sqli.yaml)
 * [用友 GRP A Cloud 政府财务云系统接口 selectGlaDatasourcePreview 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-grp-cloud-selectGlaDatasourcePreview-sqli.yaml)
 * [用友 CRM 客户关系管理系统 import.php 存在任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-crm-import-file-upload.yaml)
+* [用友 NC 系统 querygoodsgridbycode 接口存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-ufida-nc-querygoodsgridbycode-sqli.yaml)
 
 
 ### 禅道
