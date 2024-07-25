@@ -164,6 +164,11 @@ nuclei templates
 * [huawei-auth-http-server-fileread](http/vulnerabilities/huawei/huawei-auth-http-server-fileread.yaml)
 
 
+### 浪潮
+
+* [浪潮 云财务系统 bizintegrationwebservice.asmx 存在命令执行漏洞](http/vulnerabilities/inspur/inspur-gs-getchildformandentitylist-deserialization.yaml)
+
+
 ### jeecg-boot
 
 * [jeecg-boot-queryFieldBySql-sqli](http/vulnerabilities/jeecg-boot/jeecg-boot-queryFieldBySql-sqli.yaml)
