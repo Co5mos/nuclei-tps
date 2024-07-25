@@ -291,8 +291,9 @@ nuclei templates
 
 ### 通达
 
-* [tongda-api-ali-fileupload](http/vulnerabilities/tongda/tongda-api-ali-fileupload.yaml)
-* [tongda-delete-seal-sqli](http/vulnerabilities/tongda/tongda-delete-seal-sqli.yaml)
+* [通达OA v11.8 api.ali.php 任意文件上传漏洞](http/vulnerabilities/tongda/tongda-api-ali-fileupload.yaml)
+* [通达OA delete_log 存在 SQL 注入漏洞（CVE-2023-4166）](http/vulnerabilities/tongda/tongda-delete-seal-sqli.yaml)
+* [通达OA privateUpload.php 存在前台任意文件上传漏洞](http/vulnerabilities/tongda/tongda-oa-privateupload-file-upload.yaml)
 
 
 ### v-secure
