@@ -324,6 +324,7 @@ nuclei templates
 * [泛微OA E-Cology KtreeUploadAction 任意文件上传漏洞](http/vulnerabilities/weaver/ecology/weaver-ecology-ktreeuploadaction-file-upload.yaml)
 * [泛微OA E-Cology 接口 getFileViewUrl 存在 SSRF 漏洞](http/vulnerabilities/weaver/ecology/weaver-ecology-getfileviewurl-ssrf.yaml)
 * [泛微OA E-Cology 接口 WorkflowServiceXml 存在 SQL 注入漏洞](http/vulnerabilities/weaver/ecology/weaver-ecology-workflowservicexml-sqli.yaml)
+* [泛微OA E-Cology v9接口 WorkPlanService 前台 SQL 注入漏洞](http/vulnerabilities/weaver/ecology/ecology-v9-workplanservice-sqli.yaml)
 
 
 ### 泛微/emobile
