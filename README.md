@@ -70,7 +70,7 @@ nuclei templates
 
 ### 帆软
 
-* [fanruan-deserialization](http/vulnerabilities/fanruan/fanruan-deserialization.yaml)
+* [帆软 channel 接口反序列化漏洞](http/vulnerabilities/fanruan/fanruan-channel-deserialization.yaml)
 
 
 ### fastadmin
@@ -235,7 +235,8 @@ nuclei templates
 
 ### 润乾
 
-* [润乾报表 dataSphereServlet 任意文件上传](http/vulnerabilities/raqsoft/raqsoft-dataSphereServlet-file-upload.yaml)
+* [润乾报表 dataSphereServlet 接口存在任意文件上传漏洞](http/vulnerabilities/raqsoft/raqsoft-dataSphereServlet-file-upload.yaml)
+* [润乾报表 dataSphereServlet 接口存在任意文件读取漏洞](http/vulnerabilities/raqsoft/raqsoft-dataSphereServlet-lfi.yaml)
 
 
 ### 瑞友
