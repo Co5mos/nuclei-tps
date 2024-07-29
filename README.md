@@ -155,8 +155,9 @@ nuclei templates
 
 ### 华天动力
 
-* [huatian-oa-fileread](http/vulnerabilities/huatian/huatian-oa-fileread.yaml)
-* [huatian-oa-workFlowService-sqli](http/vulnerabilities/huatian/huatian-oa-workFlowService-sqli.yaml)
+* [华天动力OA 系统 downloadWpsFile 存在任意文件读取漏洞](http/vulnerabilities/huatian/huatian-oa-ntkodownload-lfi.yaml)
+* [华天动力OA 系统 workFlowService 存在 SQL 注入漏洞](http/vulnerabilities/huatian/huatian-oa-workFlowService-sqli.yaml)
+* [华天动力OA 系统 downloadWpsFile 存在任意文件读取漏洞](http/vulnerabilities/huatian/huatian-oa-downloadwpsfile-lfi.yaml)
 
 
 ### 华为
