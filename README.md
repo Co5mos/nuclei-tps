@@ -289,6 +289,11 @@ nuclei templates
 * [smartbi-windowunloading-rce](http/vulnerabilities/smartbi/smartbi-windowunloading-rce.yaml)
 
 
+### 天问
+
+* [天问物业ERP系统多个URL存在任意文件读取漏洞](http/vulnerabilities/tianwen/tianwen-erp-lfi.yaml)
+
+
 ### 通达
 
 * [通达OA v11.8 api.ali.php 任意文件上传漏洞](http/vulnerabilities/tongda/tongda-api-ali-fileupload.yaml)
