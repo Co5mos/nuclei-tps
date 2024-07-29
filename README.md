@@ -303,6 +303,7 @@ nuclei templates
 * [通达OA v2017 action_upload.php 任意文件上传漏洞](http/vulnerabilities/tongda/tongda-oa-action-upload-file-upload.yaml)
 * [通达OA go.php 存在 SQL 注入漏洞](http/vulnerabilities/tongda/tongda-oa-go-php-sqli.yaml)
 * [通达OA get_file.php 任意文件下载漏洞](http/vulnerabilities/tongda/tongda-oa-download-attachment-lfi.yaml)
+* [通达OA search_excel.php 接口存在 SQL 注入漏洞](http/vulnerabilities/tongda/tongda-oa-search-excel-sqli.yaml)
 
 
 ### v-secure
