@@ -68,6 +68,11 @@ nuclei templates
 * [普元EOS Platform eos.jmx 远程代码执行漏洞](http/vulnerabilities/eos/eos-platform-eos-jmx-rce.yaml)
 
 
+### 方天云
+
+* [方天云智慧平台系统 GetCompanyItem 存在 SQL 注入漏洞](http/vulnerabilities/fangdee/fangdee-getcompanyitem-sqli.yaml)
+
+
 ### 帆软
 
 * [帆软 channel 接口反序列化漏洞](http/vulnerabilities/fanruan/fanruan-channel-deserialization.yaml)
@@ -358,7 +363,7 @@ nuclei templates
 
 ### 任我行
 
-* [wecrm-SmsDataList-sqli](http/vulnerabilities/wecrm/wecrm-SmsDataList-sqli.yaml)
+* [任我行 CRM SmsDataList SQL注入漏洞](http/vulnerabilities/wecrm/wecrm-SmsDataList-sqli.yaml)
 
 
 ### 新开普
