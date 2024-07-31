@@ -102,6 +102,11 @@ nuclei templates
 * [广联达OA 接口 ArchiveWebService 存在 XML 实体注入漏洞](http/vulnerabilities/glodon/glodon-linkworks-ArchiveWebService-xxe.yaml)
 
 
+### 金万维
+
+* [金万维 云联应用系统接入平台 GNRemote.dll 前台存在 RCE 漏洞](http/vulnerabilities/gnway/gnway-gnremote-rce.yaml)
+
+
 ### 金盘
 
 * [goldlib-wechat-info-disclosure](http/vulnerabilities/goldlib/goldlib-wechat-info-disclosure.yaml)
