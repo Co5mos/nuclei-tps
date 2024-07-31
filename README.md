@@ -222,6 +222,11 @@ nuclei templates
 * [lanhaizhuoyue-debug-rce](http/vulnerabilities/lanhaizhuoyue/lanhaizhuoyue-debug-rce.yaml)
 
 
+### 联软
+
+* [联软 安渡系统 queryLinklnfo 接口存在 SQL 注入漏洞](http/vulnerabilities/leagsoft/leagsoft-uninxg-querylinkinfo-sqli.yaml)
+
+
 ### livebos
 
 * [livebos-showimage-fileread](http/vulnerabilities/livebos/livebos-showimage-fileread.yaml)
