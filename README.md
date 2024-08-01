@@ -247,6 +247,11 @@ nuclei templates
 * [Mingsoft MCMS v5.2.9 前台查询文章列表接口存在SQL注入](http/vulnerabilities/mcms/mcms-list-do-sqli.yaml)
 
 
+### 明源云
+
+* [明源云 ERP 存在 SQL 注入漏洞](http/vulnerabilities/mingyuanyun/mingyuanyun-erp-vistorweb-xmlhttp-sqli.yaml)
+
+
 ### 奇安信
 
 * [qianxin-legendsec-SecGate-upload](http/vulnerabilities/qianxin/qianxin-legendsec-SecGate-upload.yaml)
