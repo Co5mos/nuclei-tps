@@ -63,6 +63,11 @@ nuclei templates
 * [大华 ICC 智能物联综合管理平台 任意文件读取漏洞](http/vulnerabilities/dahua/dahua-icc-readPic-lfi.yaml)
 
 
+### 邦永
+
+* [邦永 PM2 项目管理平台系统 ExcelIn.aspx 存在任意文件上传漏洞](http/vulnerabilities/ebsoft/ebsoft-pm2-excelin-file-upload.yaml)
+
+
 ### 普元
 
 * [普元EOS Platform eos.jmx 远程代码执行漏洞](http/vulnerabilities/eos/eos-platform-eos-jmx-rce.yaml)
