@@ -182,7 +182,8 @@ nuclei templates
 
 ### 浪潮
 
-* [浪潮 云财务系统 bizintegrationwebservice.asmx 存在命令执行漏洞](http/vulnerabilities/inspur/inspur-gs-getchildformandentitylist-deserialization.yaml)
+* [浪潮 GS 企业管理软件 bizintegrationwebservice.asmx 存在命令执行漏洞](http/vulnerabilities/inspur/inspur-gs-getchildformandentitylist-deserialization.yaml)
+* [浪潮 GS 企业管理软件 xtdysrv.asmx 远程代码执行漏洞](http/vulnerabilities/inspur/inspur-gs-xtdysrv-rce.yaml)
 
 
 ### jeecg-boot
