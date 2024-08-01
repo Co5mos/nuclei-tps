@@ -260,6 +260,11 @@ nuclei templates
 * [qianxin-tianqing-info-disclosure](http/vulnerabilities/qianxin/qianxin-tianqing-info-disclosure.yaml)
 
 
+### 契约锁
+
+* [契约锁 电子签章平台 param/edits 存在任意命令执行漏洞](http/vulnerabilities/qiyuesuo/qiyuesuo-param-edits-rce.yaml)
+
+
 ### 企业微信
 
 * [qywechat-secret-disclosure](http/vulnerabilities/qywechat/qywechat-secret-disclosure.yaml)
