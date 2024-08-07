@@ -414,6 +414,7 @@ nuclei templates
 * [亿赛通电子文档安全管理系统 SaveCDGPermissionFromGFOA 接口存在 SQL 注入漏洞](http/vulnerabilities/yisaitong/yisaitong-cdg-permission-sqli.yaml)
 * [亿赛通电子文档安全管理系统 NetSecConfigAjax 接口存在 SQL 注入漏洞](http/vulnerabilities/yisaitong/yisaitong-netsec-sqli.yaml)
 * [亿赛通电子文档安全管理系统 NoticeAjax 接口存在 SQL 注入漏洞](http/vulnerabilities/yisaitong/yisaitong-NoticeAjax-sqli.yaml)
+* [亿赛通电子文档安全管理系统 CDGAuthoriseTempletService1 存在 SQL 注入漏洞](http/vulnerabilities/yisaitong/yisaitong-CDGAuthoriseTempletService1-sqli.yaml)
 
 
 ### 用友
