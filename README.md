@@ -27,6 +27,7 @@ nuclei templates
 * [CVE-2024-36401](http/cves/2024/CVE-2024-36401.yaml)
 * [CVE-2024-38856](http/cves/2024/CVE-2024-38856.yaml)
 * [CVE-2024-41468](http/cves/2024/CVE-2024-41468.yaml)
+* [CVE-2024-41473](http/cves/2024/CVE-2024-41473.yaml)
 
 
 ## http-technologies
