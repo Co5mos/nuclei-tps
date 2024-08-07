@@ -23,6 +23,5 @@ http:
       - type: dsl
         dsl:
           - status_code == 200
-          - contains(header, 'X-Protected-By')
           - contains(body, 'ODACHHNJBEELEHOGGNBIHOJAKKBLPAJJCJMGOJMMKLABKADEOPLJDBBKGEDAMOPJPJ')
         condition: and
