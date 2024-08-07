@@ -235,6 +235,7 @@ nuclei templates
 * [蓝凌EKP 系统存在未授权访问漏洞](http/vulnerabilities/landray/landray-EKP-behavior-uaa.yml)
 * [蓝凌EIS 智慧协同平台 rpt_listreport_definefield.aspx 接口存在 SQL 注入漏洞](http/vulnerabilities/landray/landray-eis-rpt-listreport-definefield-sqli.yaml)
 * [蓝凌KEP 前台 RCE 漏洞](http/vulnerabilities/landray/landray-ekp-sysUiComponent-rce.yaml)
+* [蓝凌EIS 智慧协同平台多个接口 SQL 注入](http/vulnerabilities/landray/landray-eis-sqli.yaml)
 
 
 ### 蓝海卓越
