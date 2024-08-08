@@ -9,6 +9,7 @@ info:
   reference:
     - https://github.com/wy876/POC/blob/main/%E8%93%9D%E5%87%8CEIS%E6%99%BA%E6%85%A7%E5%8D%8F%E5%90%8C%E5%B9%B3%E5%8F%B0%E5%A4%9A%E4%B8%AA%E6%8E%A5%E5%8F%A3SQL%E6%B3%A8%E5%85%A5.md
   metadata:
+    verified: true
     fofa-query: app="Landray-EIS智慧协同平台"
   tags: landray, sqli
 

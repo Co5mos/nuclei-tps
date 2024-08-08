@@ -7,6 +7,7 @@ info:
   description: |
     Glodon OA System's `ConfigService.asmx` endpoint has a SQL injection vulnerability that allows attackers to retrieve sensitive information from the database.
   metadata:
+    verified: true
     fofa-query: 'header="Services/Identification/login.ashx" || banner="Services/Identification/login.ashx"'
   tags: glodon, sqli
 

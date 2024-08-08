@@ -356,6 +356,11 @@ nuclei templates
 * [通天星CMS V6 车载定位监控平台 SQL 注入漏洞](http/vulnerabilities/tongtianxing/tongtianxing-cmsv6-disable-sqli.yaml)
 
 
+### TOTOLINK
+
+* [TOTOLINK A6000R 命令执行漏洞](http/vulnerabilities/totolink/totolink-a6000r-command-injection.yaml)
+
+
 ### v-secure
 
 * [v-secure-edr-login-sqli](http/vulnerabilities/v-secure/v-secure-edr-login-sqli.yaml)
