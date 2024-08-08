@@ -7,6 +7,7 @@ info:
   description: |
     FangTianYun Smart Platform System's `Upload.ashx` endpoint has an arbitrary file upload vulnerability that allows attackers to upload malicious files and execute arbitrary code on the server, potentially gaining full control over the web server.
   metadata:
+    verified: true
     fofa-query: 'body="AjaxMethods.asmx/GetCompanyItem"'
   tags: fangtianyun, file-upload, rce
 

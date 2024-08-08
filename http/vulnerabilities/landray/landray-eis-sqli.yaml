@@ -27,6 +27,7 @@ http:
         - /third/DingTalk/Pages/UniformEntry.aspx?moduleid=1%20and%201=@@version--+
         - /flow/fl_define_flow_chart_show.aspx?id=1%20and%201=@@version--+
 
+    stop-at-first-match: true
     matchers:
       - type: dsl
         dsl:

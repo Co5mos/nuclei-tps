@@ -387,6 +387,7 @@ nuclei templates
 * [泛微OA E-Cology 接口 WorkflowServiceXml 存在 SQL 注入漏洞](http/vulnerabilities/weaver/ecology/weaver-ecology-workflowservicexml-sqli.yaml)
 * [泛微OA E-Cology v9接口 WorkPlanService 前台 SQL 注入漏洞](http/vulnerabilities/weaver/ecology/ecology-v9-workplanservice-sqli.yaml)
 * [泛微OA E-Cology v8 HrmService接口存在信息泄露漏洞](http/vulnerabilities/weaver/ecology/ecology-HrmService-info-disclosure.yaml)
+* [泛微OA E-Cology v9 接口 XmlRpcServlet 任意文件读取漏洞](http/vulnerabilities/weaver/ecology/ecology-xmlrpcservlet-lfi.yaml)
 
 
 ### 泛微/emobile

@@ -7,6 +7,7 @@ info:
   description: |
     H3C iMC智能管理中心是一款基于B/S架构推出的综合网络管理产品，存在一个远程代码执行漏洞，攻击者可以利用该漏洞获取服务器权限。
   metadata:
+    verified: true
     fofa-query: (title="用户自助服务" && body="/selfservice/javax.faces.resource/") || body="/selfservice/index.xhtml"
   tags: h3c, rce
 
