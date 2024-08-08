@@ -350,6 +350,11 @@ nuclei templates
 * [通达OA use_finger.php 接口存在 SQL 注入漏洞](http/vulnerabilities/tongda/tongda-oa-use-finger-sqli.yaml)
 
 
+### 通天星
+
+* [通天星CMS V6 车载定位监控平台 SQL 注入漏洞](http/vulnerabilities/tongtianxing/tongtianxing-cmsv6-disable-sqli.yaml)
+
+
 ### v-secure
 
 * [v-secure-edr-login-sqli](http/vulnerabilities/v-secure/v-secure-edr-login-sqli.yaml)
