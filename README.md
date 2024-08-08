@@ -138,6 +138,11 @@ nuclei templates
 * [hand-srm-auth-bypass](http/vulnerabilities/hand/hand-srm-auth-bypass.yaml)
 
 
+### 汉王
+
+* [汉王 智慧园区 uploadMapFile 文件上传漏洞](http/vulnerabilities/hanwang/hanwang-uploadMapFile-file-upload.yaml)
+
+
 ### 海康威视
 
 * [HiKVISION 综合安防管理平台 env 信息泄漏漏洞](http/vulnerabilities/hikvision/hikvision-env-disclosure.yaml)
