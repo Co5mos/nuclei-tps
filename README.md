@@ -88,6 +88,7 @@ nuclei templates
 ### 帆软
 
 * [帆软 channel 接口反序列化漏洞](http/vulnerabilities/fanruan/fanruan-channel-deserialization.yaml)
+* [帆软 ReportServer 存在 SQL 注入漏洞导致 RCE ](http/vulnerabilities/fanruan/fanruan-reportserver-sqlite-rce.yaml)
 
 
 ### fastadmin
