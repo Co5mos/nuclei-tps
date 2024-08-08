@@ -128,7 +128,8 @@ nuclei templates
 
 ### 新华三
 
-* [h3c-selfservice-flexfileupload-file-upload](http/vulnerabilities/h3c/h3c-selfservice-flexfileupload-fileupload.yaml)
+* [H3C iMC flexfileupload 任意文件上传漏洞](http/vulnerabilities/h3c/h3c-selfservice-flexfileupload-fileupload.yaml)
+* [H3C iMC 智能管理中心多接口远程代码执行漏洞](http/vulnerabilities/h3c/h3c-imc-rce.yaml)
 
 
 ### 汉得
