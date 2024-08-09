@@ -392,6 +392,11 @@ nuclei templates
 * [wantit-erp-rce](http/vulnerabilities/wantit/wantit-erp-rce.yaml)
 
 
+### 泛微/ebridge
+
+* [泛微云桥 E-Bridge 系统接口 addResume 存在任意文件上传漏洞](http/vulnerabilities/weaver/ebridge/ebridge-addResume-arbitrary-file-upload.yaml)
+
+
 ### 泛微/ecology
 
 * [泛微OA E-Cology deleteUserRequestInfoByXml XXE 漏洞](http/vulnerabilities/weaver/ecology/ecology-deleteUserRequestInfoByXml-xxe.yaml)
