@@ -432,6 +432,7 @@ nuclei templates
 ### 任我行
 
 * [任我行 CRM SmsDataList SQL注入漏洞](http/vulnerabilities/wecrm/wecrm-SmsDataList-sqli.yaml)
+* [任我行 CRM 系统 UploadFile 存在反序列化漏洞](http/vulnerabilities/wecrm/wecrm-uploadfile-deserialization.yaml)
 
 
 ### 新开普
