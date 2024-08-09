@@ -205,15 +205,16 @@ nuclei templates
 
 ### jeecg-boot
 
-* [jeecg-boot-queryFieldBySql-sqli](http/vulnerabilities/jeecg-boot/jeecg-boot-queryFieldBySql-sqli.yaml)
-* [jeecg-boot-ssti](http/vulnerabilities/jeecg-boot/jeecg-boot-ssti.yaml)
+* [JeecgBoot queryFieldBySql 存在 SQL 注入漏洞](http/vulnerabilities/jeecg-boot/jeecg-boot-queryFieldBySql-sqli.yaml)
+* [JeecgBoot 存在 SSTI 漏洞](http/vulnerabilities/jeecg-boot/jeecg-boot-ssti.yaml)
+* [JeecgBoot 积木报表组件权限绕过漏洞](http/vulnerabilities/jeecg-boot/jeecg-boot-jimureport-auth-bypass.yaml)
 
 
 ### jeewms
 
-* [JEEWMS存在命令执行漏洞](http/vulnerabilities/jeewms/jeewms-dynamicDataSourceController-rce.yaml)
-* [JEEWMS存在权限绕过漏洞](http/vulnerabilities/jeewms/jeewms-privilege-bypass.yaml)
-* [JEEWMS存在未授权任意文件读取漏洞](http/vulnerabilities/jeewms/jeewms-lfi.yaml)
+* [JEEWMS 存在命令执行漏洞](http/vulnerabilities/jeewms/jeewms-dynamicDataSourceController-rce.yaml)
+* [JEEWMS 存在权限绕过漏洞](http/vulnerabilities/jeewms/jeewms-privilege-bypass.yaml)
+* [JEEWMS 存在未授权任意文件读取漏洞](http/vulnerabilities/jeewms/jeewms-lfi.yaml)
 
 
 ### 金和
@@ -229,7 +230,7 @@ nuclei templates
 ### 金蝶
 
 * [金蝶云星空 CommonFileServer 文件读取漏洞](http/vulnerabilities/kingdee/kingdee-cloud-CommonFileserver-fileread.yaml)
-* [金蝶云星空反序列化远程命令执行漏洞](http/vulnerabilities/kingdee/kingdee-erp-binaryformatterproxy-deserialization.yaml)
+* [金蝶云星空 反序列化远程命令执行漏洞](http/vulnerabilities/kingdee/kingdee-erp-binaryformatterproxy-deserialization.yaml)
 
 
 ### 科荣
