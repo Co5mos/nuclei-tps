@@ -259,7 +259,8 @@ nuclei templates
 
 ### livebos
 
-* [livebos-showimage-fileread](http/vulnerabilities/livebos/livebos-showimage-fileread.yaml)
+* [LiveBOS ShowImage.do 任意文件读取漏洞](http/vulnerabilities/livebos/livebos-showimage-fileread.yaml)
+* [LiveBOS UploadImage.do 任意文件上传漏洞](http/vulnerabilities/livebos/livebos-uploadimage-fileupload.yaml)
 
 
 ### 铭飞CMS
