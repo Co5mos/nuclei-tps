@@ -318,7 +318,8 @@ nuclei templates
 
 ### 深信服
 
-* [sangfor-ad-login-rce](http/vulnerabilities/sangfor/sangfor-ad-login-rce.yaml)
+* [深信服 应用交付AD 存在远程命令执行漏洞](http/vulnerabilities/sangfor/sangfor-ad-login-rce.yaml)
+* [深信服 桌面云 报表中心存在远程代码执行漏洞](http/vulnerabilities/sangfor/sangfor-desktop-cloud-rce.yaml)
 
 
 ### 海洋CMS
