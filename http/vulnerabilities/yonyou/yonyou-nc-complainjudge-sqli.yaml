@@ -7,6 +7,7 @@ info:
   description: |
     Yonyou NC system's /ebvp/advorappcoll/complainjudge interface has a SQL injection vulnerability in the pk_complaint parameter, allowing attackers to extract sensitive information from the database.
   metadata:
+    verified: true
     fofa-query: 'app="用友-UFIDA-NC"'
   tags: yonyou, sqli
 

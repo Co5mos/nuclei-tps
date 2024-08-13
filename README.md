@@ -280,6 +280,11 @@ nuclei templates
 * [梓川信息 PEPM系统Cookie存在远程代码执行漏洞](http/vulnerabilities/pepm/pepm-login-rce.yaml)
 
 
+### 普华
+
+* [普华 PowerPMS APPGetUser 接口存在 SQL 注入漏洞](http/vulnerabilities/powerpms/powerpms-appgetuser-sqli.yaml)
+
+
 ### 奇安信
 
 * [qianxin-legendsec-SecGate-upload](http/vulnerabilities/qianxin/qianxin-legendsec-SecGate-upload.yaml)
