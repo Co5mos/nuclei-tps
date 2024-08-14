@@ -382,6 +382,11 @@ nuclei templates
 * [TOTOLINK A6000R 命令执行漏洞](http/vulnerabilities/totolink/totolink-a6000r-command-injection.yaml)
 
 
+### 拓尔思
+
+* [拓尔思 TRS 媒资管理系统 uploadThumb 存在文件上传漏洞](http/vulnerabilities/tuoersi/tuoersi-media-uploadthumb-fileupload.yaml)
+
+
 ### v-secure
 
 * [v-secure-edr-login-sqli](http/vulnerabilities/v-secure/v-secure-edr-login-sqli.yaml)
