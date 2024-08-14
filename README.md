@@ -303,6 +303,11 @@ nuclei templates
 * [qywechat-secret-disclosure](http/vulnerabilities/qywechat/qywechat-secret-disclosure.yaml)
 
 
+### 瑞斯康达
+
+* [瑞斯康达 多业务智能网关存在远程命令执行漏洞](http/vulnerabilities/raisecom/raisecom-multi-business-gateway-rce.yaml)
+
+
 ### 润乾
 
 * [润乾报表 dataSphereServlet 接口存在任意文件上传漏洞](http/vulnerabilities/raqsoft/raqsoft-dataSphereServlet-file-upload.yaml)
