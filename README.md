@@ -446,6 +446,7 @@ nuclei templates
 ### 泛微/eoffice
 
 * [泛微 E-office v10 接口 leave_record.php 存在 SQL 注入漏洞](http/vulnerabilities/weaver/eoffice/eoffice-v10-leave-record-sqli.yaml)
+* [泛微 E-office v10 系统存在敏感信息泄露漏洞](http/vulnerabilities/weaver/eoffice/eoffice-v10-schema-sql-leak.yaml)
 
 
 ### 任我行
