@@ -38,6 +38,11 @@ nuclei templates
 ## http-vulnerabilities
 
 
+### 三一谦成
+
+* [三一谦成科技 车辆监控服务平台存在 SQL 注入漏洞](http/vulnerabilities/31gps/31gps-vehicle-monitoring-sqli.yaml)
+
+
 ### 安恒
 
 * [anheng-gateway-rce-cnvd-2023-03898](http/vulnerabilities/anheng/anheng-gateway-rce-cnvd-2023-03898.yaml)
