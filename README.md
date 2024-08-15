@@ -283,6 +283,7 @@ nuclei templates
 ### 普华
 
 * [普华 PowerPMS APPGetUser 接口存在 SQL 注入漏洞](http/vulnerabilities/powerpms/powerpms-appgetuser-sqli.yaml)
+* [普华 PowerPMS ForgotPassword 接口存在 SQL 注入漏洞](http/vulnerabilities/powerpms/powerpms-forgotpassword-sqli.yaml)
 
 
 ### 奇安信
