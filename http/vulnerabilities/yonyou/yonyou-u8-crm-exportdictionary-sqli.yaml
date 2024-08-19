@@ -10,7 +10,7 @@ info:
     - https://github.com/wy876/POC/blob/main/%E7%94%A8%E5%8F%8BU8-CRM%E6%8E%A5%E5%8F%A3exportdictionary.php%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md
   metadata:
     verified: true
-    fofa-query: 'app.name="用友 CRM"'
+    fofa-query: 'title="用友U8CRM"'
   tags: yonyou, sqli
 
 http:
