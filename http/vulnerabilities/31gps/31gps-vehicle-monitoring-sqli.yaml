@@ -7,6 +7,7 @@ info:
   description: |
     Hangzhou Sanyi Qiancheng Technology Vehicle Monitoring Service Platform is vulnerable to SQL injection, which allows unauthorized attackers to execute arbitrary SQL commands, potentially leading to data leakage or system compromise.
   metadata:
+    verified: true
     fofa-query: 'title=="欢迎光临..." || title=="车辆监控云平台"'
   tags: sanyi, vehicle-monitoring, sqli
 
