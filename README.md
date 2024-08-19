@@ -521,6 +521,7 @@ nuclei templates
 * [用友 NC 系统 complainjudge 接口 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-complainjudge-sqli.yaml)
 * [用友 U8 Cloud 系统 BusinessRefAction 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-businessrefaction-sqli.yaml)
 * [用友 NC 接口 download 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-nc-download-sqli.yaml)
+* [用友 NC 系统 FileManager 接口存在任意文件上传漏洞](http/vulnerabilities/yonyou/yonyou-nc-filemanager-file-upload.yaml)
 
 
 ### 禅道
