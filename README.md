@@ -88,6 +88,7 @@ nuclei templates
 * [方天云智慧平台系统 GetCompanyItem 存在 SQL 注入漏洞](http/vulnerabilities/fangdee/fangdee-getcompanyitem-sqli.yaml)
 * [方天云智慧平台系统 GetCustomerLinkman 存在 SQL 注入漏洞](http/vulnerabilities/fangdee/fangdee-getcustomerlinkman-sqli.yaml)
 * [方天云智慧平台系统 Upload.ashx 存在任意文件上传漏洞](http/vulnerabilities/fangdee/fangdee-upload-file-upload.yaml)
+* [方天云智慧平台系统 setImg.ashx 存在文件上传漏洞](http/vulnerabilities/fangdee/fangdee-setimg-file-upload.yaml)
 
 
 ### 帆软
