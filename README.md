@@ -271,6 +271,11 @@ nuclei templates
 * [LiveBOS UploadFile.do 任意文件上传漏洞](http/vulnerabilities/livebos/livebos-uploadfile-fileupload.yaml)
 
 
+### 龙腾CMS
+
+* [龙腾CMS WEB系统开发解决方案存在远程命令执行漏洞](http/vulnerabilities/ltcms/ltcms-multiDownload-rce.yaml)
+
+
 ### 铭飞CMS
 
 * [Mingsoft MCMS v5.2.9 前台查询文章列表接口存在SQL注入](http/vulnerabilities/mcms/mcms-list-do-sqli.yaml)
