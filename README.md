@@ -286,6 +286,11 @@ nuclei templates
 * [明源云 ERP 存在 SQL 注入漏洞](http/vulnerabilities/mingyuanyun/mingyuanyun-erp-vistorweb-xmlhttp-sqli.yaml)
 
 
+### nginxWebUI
+
+* [nginxWebUI Solon 框架远程代码执行漏洞](http/vulnerabilities/nginx-webui/nginx-webui-solon-rce.yaml)
+
+
 ### 梓川信息
 
 * [梓川信息 PEPM系统Cookie存在远程代码执行漏洞](http/vulnerabilities/pepm/pepm-login-rce.yaml)
