@@ -233,6 +233,11 @@ nuclei templates
 * [金和 OA C6 GeneralXmlhttpPage.aspx 存在 SQL 注入漏洞](http/vulnerabilities/jinhe/jinhe-oa-c6-generalxmlhttppage-sqli.yaml)
 
 
+### 华夏ERP/管伊佳ERP
+
+* [华夏ERP 未授权访问漏洞](http/vulnerabilities/jsherp/jsherp-admin-info-disclosure.yaml)
+
+
 ### 金蝶
 
 * [金蝶云星空 CommonFileServer 文件读取漏洞](http/vulnerabilities/kingdee/kingdee-cloud-CommonFileserver-fileread.yaml)
