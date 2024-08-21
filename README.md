@@ -417,6 +417,7 @@ nuclei templates
 * [万户 ezOFFICE download_ftp.jsp 任意文件下载漏洞](http/vulnerabilities/wanhu/wanhu-ezoffice-download-ftp-file-read.yaml)
 * [万户 ezOFFICE OA officeserver 文件上传漏洞](http/vulnerabilities/wanhu/wanhu-ezoffice-officeserver-fileupload.yaml)
 * [万户 ezOFFICE 系统 graph_include.jsp 存在 SQL 注入漏洞](http/vulnerabilities/wanhu/wanhu-ezoffice-graph-include-sqli.yaml)
+* [万户 ezOFFICE 协同管理平台 receivefile_gd.jsp 存在 SQL 注入漏洞](http/vulnerabilities/wanhu/wanhu-ezoffice-receivefile-sqli.yaml)
 
 
 ### 企望制造
