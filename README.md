@@ -236,6 +236,7 @@ nuclei templates
 ### 华夏ERP/管伊佳ERP
 
 * [华夏ERP 未授权访问漏洞](http/vulnerabilities/jsherp/jsherp-admin-info-disclosure.yaml)
+* [华夏ERP V3.3 存在信息泄漏漏洞](http/vulnerabilities/jsherp/jsherp-v33-info-disclosure.yaml)
 
 
 ### 金蝶
