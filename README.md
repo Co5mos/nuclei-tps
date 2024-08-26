@@ -162,6 +162,11 @@ nuclei templates
 * [HiKVISION 综合安防管理平台 licenseExpire 命令执行漏洞](http/vulnerabilities/hikvision/hikvision-integrated-security-rce.yaml)
 
 
+### 山石网科
+
+* [山石网科 应用防火墙 WAF 未授权命令注入漏洞](http/vulnerabilities/hillstone/hillstone-waf-captcha-rce.yaml)
+
+
 ### 宏景
 
 * [宏景 eHR 任意文件上传漏洞](http/vulnerabilities/hjsoft/hjsoft-hcm-arbitrary-file-fileupload.yaml)
