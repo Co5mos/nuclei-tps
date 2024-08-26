@@ -358,6 +358,7 @@ nuclei templates
 ### 海洋CMS
 
 * [SeaCMS 海洋影视管理系统 dmku 存在 SQL 注入漏洞](http/vulnerabilities/seacms/seacms-dmku-sqli.yaml)
+* [SeaCMS 海洋影视管理系统 index.php 存在 SQL 注入漏洞](http/vulnerabilities/seacms/seacms-index-sqli.yaml)
 
 
 ### 致远
