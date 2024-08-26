@@ -546,6 +546,7 @@ nuclei templates
 * [用友 U8 CRM 系统接口 attrlist 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-crm-attrlist-sqli.yaml)
 * [用友 CRM 客户关系管理 help.php 存在任意文件读取漏洞](http/vulnerabilities/yonyou/yonyou-crm-help-php-lfi.yaml)
 * [用友 U8 cloud 系统 MeasureQResultAction 存在接口 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-measureqresultaction-sqli.yaml)
+* [用友 NC 系统 link 接口 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-ufida-nc-link-sqli.yaml)
 
 
 ### 禅道
