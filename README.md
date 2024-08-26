@@ -231,6 +231,7 @@ nuclei templates
 * [金和 OA C6 download.jsp 任意文件读取漏洞](http/vulnerabilities/jinhe/jinhe-oa-c6-download-file-read.yaml)
 * [金和 OA C6 UploadFileDownLoadnew 存在任意文件读取漏洞](http/vulnerabilities/jinhe/jinhe-oa-c6-uploadfiledownloadnew-fileread.yaml)
 * [金和 OA C6 GeneralXmlhttpPage.aspx 存在 SQL 注入漏洞](http/vulnerabilities/jinhe/jinhe-oa-c6-generalxmlhttppage-sqli.yaml)
+* [金和 OA C6 协同管理平台 DBModules.aspx 存在 SQL 注入漏洞](http/vulnerabilities/jinhe/jinhe-oa-c6-dbmodules-sqli.yaml)
 
 
 ### 华夏ERP/管伊佳ERP
