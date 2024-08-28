@@ -94,6 +94,7 @@ nuclei templates
 ### 方正
 
 * [方正 畅享全媒体新闻采编系统 binary_large.do 存在 SQL 注入漏洞](http/vulnerabilities/fangzheng/fangzheng-binary-large-sqli.yaml)
+* [方正 畅享全媒体新闻采编系统 binary.do 存在 SQL 注入漏洞](http/vulnerabilities/fangzheng/fangzheng-binary-sqli.yaml)
 
 
 ### 帆软
