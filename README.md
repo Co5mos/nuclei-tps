@@ -91,6 +91,11 @@ nuclei templates
 * [方天云智慧平台系统 setImg.ashx 存在文件上传漏洞](http/vulnerabilities/fangdee/fangdee-setimg-file-upload.yaml)
 
 
+### 方正
+
+* [方正 畅享全媒体新闻采编系统 binary_large.do 存在 SQL 注入漏洞](http/vulnerabilities/fangzheng/fangzheng-binary-large-sqli.yaml)
+
+
 ### 帆软
 
 * [帆软 channel 接口反序列化漏洞](http/vulnerabilities/fanruan/fanruan-channel-deserialization.yaml)
