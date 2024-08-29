@@ -55,6 +55,7 @@ nuclei templates
 * [畅捷通 TPlus DownloadProxy.aspx 任意文件读取漏洞](http/vulnerabilities/changjet/changjet-tplus-downloadproxy-traversal.yaml)
 * [畅捷通 TPlus KeyInfoList.aspx 存在 SQL 注入漏洞](http/vulnerabilities/changjet/changjet-tplus-keyinfolist-sqli.yaml)
 * [畅捷通 TPlus KeyEdit.aspx 存在 SQL 注入漏洞](http/vulnerabilities/changjet/changjet-tplus-keyedit-sqli.yaml)
+* [畅捷通 CRM 系统 newleadset.php 接口存在 SQL 注入漏洞](http/vulnerabilities/changjet/changjet-crm-newleadset-sqli.yaml)
 
 
 ### ComfyUI
