@@ -416,7 +416,8 @@ nuclei templates
 
 ### 通天星
 
-* [通天星CMS V6 车载定位监控平台 SQL 注入漏洞](http/vulnerabilities/tongtianxing/tongtianxing-cmsv6-disable-sqli.yaml)
+* [通天星CMS V6 车载定位监控平台 disable SQL 注入漏洞](http/vulnerabilities/tongtianxing/tongtianxing-cmsv6-disable-sqli.yaml)
+* [通天星CMS V6 车载定位监控平台 getAlarmAppealByGuid 存在 SQL 注入漏洞](http/vulnerabilities/tongtianxing/tongtianxing-cmsv6-getalarmappealbyguid-sqli.yaml)
 
 
 ### TOTOLINK
