@@ -302,7 +302,7 @@ nuclei templates
 
 ### 明源云
 
-* [明源云 ERP 存在 SQL 注入漏洞](http/vulnerabilities/mingyuanyun/mingyuanyun-erp-vistorweb-xmlhttp-sqli.yaml)
+* [明源云 ERP 存在 SQL 注入漏洞](http/vulnerabilities/mingyuanyun/mingyuanyun-erp-visitorweb-xmlhttp-sqli.yaml)
 
 
 ### nginxWebUI
@@ -567,6 +567,11 @@ nuclei templates
 ### 禅道
 
 * [禅道项目管理系统身份认证绕过漏洞](http/vulnerabilities/zentao/zentao-zentaosid-auth-bypass.yaml)
+
+
+### 中兴
+
+* [中兴 ZTE-ZSR-V2 系列多业务路由器存在任意文件读取漏洞](http/vulnerabilities/zte/zte-zsr-v2-arbitrary-file-read.yaml)
 
 
 # 免责声明
