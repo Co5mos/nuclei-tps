@@ -562,6 +562,7 @@ nuclei templates
 * [用友 U8 cloud 系统 MeasureQResultAction 存在接口 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-measureqresultaction-sqli.yaml)
 * [用友 NC 系统 link 接口 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-ufida-nc-link-sqli.yaml)
 * [用友 U8 Cloud approveservlet 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-approveservlet-sqli.yaml)
+* [用友 U8 Cloud 系统接口 RepAddToTaskAction 存在 SQL 注入漏洞](http/vulnerabilities/yonyou/yonyou-u8-cloud-repaddtotaskaction-sqli.yaml)
 
 
 ### 禅道
