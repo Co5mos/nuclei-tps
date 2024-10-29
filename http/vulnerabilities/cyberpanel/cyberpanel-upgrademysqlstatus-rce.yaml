@@ -5,7 +5,9 @@ info:
   author: Co5mos
   severity: critical
   description: Exploits a CSRF token-based RCE vulnerability by injecting commands.
-  tags: csrf, rce
+  metadata:
+    fofa-query: CyberPanel
+  tags: cyberpanel, rce
 
 variables:
   cmd: "whoami"
